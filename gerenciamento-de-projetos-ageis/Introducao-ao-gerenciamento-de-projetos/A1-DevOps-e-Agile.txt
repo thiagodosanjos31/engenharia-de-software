@@ -1,0 +1,9 @@
+Agile + DevOps
+
+O Scrum, precede o crescimento de uma cultura DevOps. Consequentemente, as práticas dentro dessa metodologia, focam bastante no que podemos vagamente definir como os aspectos de entrega de software, e bem menos nos aspectos operacionais.
+
+Uma abordagem DevOps deve fazer você repensar o modo como sua equipe é formada, repensar os backlogs, como as histórias de usuários são escritas, e assim por diante. Um backlog, por exemplo, deve incluir escalablidade, implantação, monitoramento, dentre outros.
+
+Um Scrum Master tradicional talvez não seja a melhor opção. O papel é mais parecido com o de um Agile coach.
+
+Precisamos levar em consideração DevOps desde o momento que contratamos as pessoas integrantes da equipe, passando pelo planejamento e construção de nossos produtos até a sua aposentadoria.

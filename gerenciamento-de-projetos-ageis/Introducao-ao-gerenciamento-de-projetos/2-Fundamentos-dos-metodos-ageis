@@ -1,0 +1,58 @@
+
+Todos os métodos abaixo convergem para o Scrum
+    Desenvolvimento iterativo e incremental
+
+        Desenvolvendo e entregando o produto em incrementos de software funcionais.
+        Promovendo feedbacks sobre essas entregas.
+        Múltiplos: PDCAs: Plan - Do - Check - Act
+
+    Cone da inerteza
+        Planos evolucionários trazem maior possibilidade de acerto quando requisitos ainda não são conhecidos.
+        Precisamos utilizar estimativas e diminui-las.
+
+    Métodos ageis e IID
+        Método ágil segue o PDCA
+
+    Lean Manufactoring
+        Teoria clássica da administração (Fayol, Taylor, Ford)    
+        Qualidade total: Edwards Deming 
+            Aprimoramento com a cultura: "Stop-the-line"
+            + JIT (just in time) (foco na eliminação de desperdício)        
+        Trabalhadores podem melhorar o processo
+        
+
+        Precisamos atender os requisitos do cliente se aproximando dee e criando atmosfera saudável.
+        Fornecer a visão do todo.
+        Pensam através de imagens.
+        Buscam o aprimoamento contínuo
+        Simplicidade
+
+    The New, New product Development Game
+        Aproximação em conjunto (Rugby)
+
+        Times auto-organizados
+        Fases de desenvolvimento sobrepostas
+        MultiAprendizado
+        Controle Sutil
+        Transferência de conhecimento
+    
+    Teoria do caos
+        Admitindo a impevisibilidade inerente no desenvolvimento de software complexo, utilizar uma abordagem preditiva não garante a previsibilidade desejada
+    
+    Teoria dos jogos
+        Um sistema complexo adaptativo é um sistema formado por uma rede dinâmica de agentes (se há alguma coerência no comportamento do sistema, ele emerge da competição e cooperação dos agentes)
+        CAS: mercado de ações, colônia de formigas, nosso cérebro
+        Equilibrio de Nash: nenhum jogador poe melhorar a sua situação dada a estratégia seguida pelo jogador adversário
+        Dilema o prisioneiro: jogo de soma diferente de zero, onde o ganho de um dos jogadores não necessariamente correspone à perda do outro
+
+        Ambiente de confiaça
+        Comprometimento
+        Colaboração
+        Trabalho em equipe
+    
+    Teoria das restrições
+        Identificar a restrição
+        Decidir como explorar
+        Subordinar tudo
+        Elevar a restrição do sistema
+        E voltar ao passo inicial

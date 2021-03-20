@@ -1,0 +1,36 @@
+
+1. Introdução ao gerenciamento de projetos ágeis
+
+    * Motivação para mudar e novos desafios
+        Dificuldades inerentes aos projetos de software:
+        1. Falta de planejamento
+        2. Prazo inviável
+        3. Mudança de escopo (às vezes é necessário, às vezes não => quando é para uma entrega melhor devemos mudar)
+        4. Falha na comunicação (quanto mais pessoas, mais probabilidade de problemas de comunicação) => O ideal é entre 5 e 9 pessoas
+        5. Autoritarismo
+    
+    Produto:
+    64% das funcionalidades não tem usuários
+    Apenas 20% das funcionalidades entregues tem uso constante ou muito frequente
+    => Resolvemos falando com o cliente
+
+    VUCA: Volatibility, Uncertainty, Complexity e Ambiguity
+
+    FCB: Faster, Cheaper, Better
+        Fazendo mini entregas e tendo feedback do usuário em cima dos 20% do app que é mais usado
+
+    Teoria do caos: 
+        O bater de asas de uma borboleta (...)
+        Por isso, devemos estar fazendo sempre coisas complexas (quase caóticas) e tendo uma ferramenta para mudar rapidamente.
+
+    O que deve ser feito:
+    Mudanças culturais são cruciais;
+    Muita disciplina;
+
+    Desafios:
+    Aprendizado organizacional
+    Falta de um ambiente de confiança
+    Uso do ágil sem conhecer o problemas
+    PO sem autoridade ou conhecimento
+    Fazer agile estritamente e 'apenas' a risca
+    Não preparar a organização para o projeto ágil

@@ -1,0 +1,24 @@
+
+    Mentalidade ágil:
+        Ser ágil / Fazer ágil
+        Ser ágil: Capacidade de prover respostas rápidas e flexívieis ás mudanças
+
+        Ao invés de fixar a várivel funcionalidade, fixamos o prazo e os recursos
+
+        4 valores:
+        individuos e interações mais do que processo e ferramentas
+        software funcionando mais do que documentação compreensiva
+        Colaboração do cliente mais do que negociação do contrato
+        Resposta para mudar mais do que seguir um plano
+
+        Liberação rapida e continua de software de valor
+        Devem admitir mudanças que trazem vantagens competitivas
+        Liberar em uma escala mais curta
+        Manter as pessoas dos negócios e os dev trabalhando juntos
+        Construa projetos com pessoas motivadas (Não busque por culpados: busque por sistemas errados)
+        Repassar informação cara-a-cara
+        software funcionando é a maior medida de progresso
+        Atenção contínua para a excelência técnica e um bom projeto aprimora a agilidade
+        Simplicidade é essencial
+        Auto-organização
+        Refletir sobre como se tornarem mais efetivas e refinar os comportamentos
