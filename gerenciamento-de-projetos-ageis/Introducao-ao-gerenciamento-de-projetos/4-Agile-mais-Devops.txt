@@ -1,0 +1,14 @@
+    Problemas
+        Muitos defeitos e incidentes no ambiente de prod
+        Conflitos entre áreas de dev, op e infra
+        Muito Retrabalho
+        Filas e esperas irritantes para pequenas demandas
+        Descrédito da área de negócio sobre trabalho de técnica
+
+    DevOps
+        Abordagem cultural, que busca aproximar pessoas, automatizar trabalhos repetitivos com práticas e ferramentas e criar um ambiente de robustez e antifragilidade nas organizações
+
+    • Ao separar o trabalho de construção e de implantantação/atividades de infraestrutura, cria-se a cultura de que "o problema é de outra pessoa"!
+
+    Pilares DevOps  
+        Cultura de colaboração / Infraestrutura como código / Deplóy continuo

@@ -1,0 +1,29 @@
+    É um framework organizacional para desenvolvimento de equipes produtivas com foco em boas práticas de liderança.
+
+    Most importants techniques on Scrum:
+    Iteration planning
+    Daily Standup
+    Retrospectives
+    Iteration Reviews
+
+    Características do Scrum:
+    13 regras
+    Descrito em 16 páginas (Scrum Guide)
+    Extensível e pouco descritivo
+
+    Pilares do Scrum:
+    Transparência
+    Inspeção
+    Adaptação
+
+    Valores do Scrum:
+    Respeito
+    Coragem
+    Comprometimento
+    Foco
+    Sinceridade
+
+    Papéis do Scrum:
+    PO
+    Scrum Master
+    Development Team

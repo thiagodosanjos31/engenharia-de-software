@@ -1,0 +1,11 @@
+    Scrum (Metodologia)
+    Kanban
+    DSDM
+    FDD
+    ASD
+    Lean (Filosofia, assim como o Agile) 
+    XP
+    Crystal
+
+
+    1. Agile: Iterativamente e incrementalmente

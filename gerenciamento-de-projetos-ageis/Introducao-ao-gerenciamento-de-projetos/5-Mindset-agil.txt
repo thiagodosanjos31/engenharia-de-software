@@ -1,0 +1,30 @@
+    Agil é uma mentalidade (bem definido pelos valores):
+
+    individuos e interações mais do que processo e ferramentas
+    software funcionando mais do que documentação compreensiva
+    Colaboração do cliente mais do que negociação do contrato
+    Resposta para mudar mais do que seguir um plano
+
+    Ser ágil é sobre trabalhar de forma mais inteligente, e não sobre trabalhar mais!
+    Não se trata de fazer mais trabalho em menos tempo: trata-se de gerar mais valor com menos trabalho. (Denning)
+
+    "Busque entender o que seus clientes valorizam!"
+    "Lidere dando o exemplo"
+    "Reduza ou elimine atividades que não agregem valor"
+    "Agradeça, reconheça e recompensa bons comportamentos"
+    "Termine as ativadades de maior valor primeiro"
+    "Torne as atividades visiveis e monitore"
+    "Feedbacks recorrentes são essenciais para melhoria"
+    "Trabalhe para alcançar ótimos relacionamento com os clientes"
+    "Trabalhe em equipe e busque multidisciplinariedade"
+    "Autoorganização"
+    "Falhe rápido para aprender rápido"
+    "Não comenta os mesmos erros"
+    "Foco é essencial (Work in progress)"
+    "Pense simples e aja rápido"
+    "Alinhe restrições importantes"
+    "Otimize a comunicação"
+    "Seja transparente"
+    "Um time, um objetivo"
+    "Explore + experimente + adapte"
+    "Reduza o risco entregando frequentemente"
