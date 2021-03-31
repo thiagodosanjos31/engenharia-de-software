@@ -1,0 +1,62 @@
+    XP (Xtreme Programing)
+    
+    Valores:
+    Comunicação
+    Simplicidade
+    Feedback
+    Coragem
+    Respeito
+
+    Papéis
+    Coach
+    Cliente
+    Programadores
+    Testadores
+
+    Práticas do XP:
+    Planning:
+    Iterações semanais
+    Desenvolvedores estimam
+    Entregável (completamente testado e pronto)
+
+    Small releases:
+    Liberação de pequenas versões
+
+    Metáfora:
+    Facilitar a comunicação com o cliente
+
+    Projeto Simples:
+    Códigos fáceis de se entender e de serem alterados
+
+    Time Coeso:
+    A equipe de desenvolvimento é formada pelo cliente e pela equipe de desenvolvimento
+
+    Teste de aceitação:
+    Testes construídos pelo cliente em conjunto de analistas e Testadores
+
+    Ritmo sustentável:
+    Trabalhar com qualidade, buscando ter ritmo de trabalho saudável
+
+    Reuniões em pé:
+    Para não se perder o foco nos assuntos (rápidas)
+
+    Propriedade coletiva de código:
+    Código fonte não tem dono (equipe conhecer todas as partes do sistema)
+
+    Programação em par:
+    Programa sempre é revisto por duas pessoas, evitando e diminuindo assim a possibilidade de erros
+
+    Padrão de codificação:
+    Estabelecer regras para programar
+
+    Refatoração:
+    Melhoria contínua da Programação
+
+    Desenvolvimento orientado a testes (TDD):
+    Primeiro crie os testes automatizados e depois crie o código para que os testes funcionem
+
+    Integração contínua:
+    Integrar de forma contínua permite saber o status real da Programação
+
+    Scrum e XP:
+    Amboms pregam que a equipe complete alguma parte palável de trabalho que seja entregável ao fim de cada iteração.

@@ -1,0 +1,45 @@
+    Scrum
+        Não é:
+            Metodologia
+            Processo Preditivo
+            Planos detalhados, gráficos de Gantt, cronogramas
+            Templates de artefatos
+            Planejar detalhadamente -> Executar
+        O que é?
+            Abordagem iterativa e incremental para gerenciamento de projetos em geral
+            Processo empírico (Inspeção e adaptação)
+            Framework
+            Papéis, regras e fluxo de atividades
+            Incompleto
+            Resgate de ambiente criativo
+
+        Definições:
+        Em rugby, Scrum é um time de oito integrantes que trabalham em conjunto para levar a bola adiante no campo.
+        => GOAL == OBJETIVO DA SCRUM
+
+        Maior valor de negócio no menor tempo possível (PRIORIZAÇÃO)
+
+    Scrum Master
+        Compreender e praticar a agilidade
+        Garantir que o Scrum seja entendido e aplicado
+        Garantir que todos estejam aderentes ao Scrum
+        Facilitar eventos Scrum
+        Atuar como líder servidor do time de desenvolvimento
+        Remover impedimentos para o progresso do trabalho
+        Encontrar técnicas para apoiar o PO e time de dev
+        Liderar e treinar a organização na adoção do Scrum
+
+        Perfil:
+            Trabalhar para a equipe
+            Determinado em fazer o que for necessário para seu time
+            Confortável em tomar iniciativa
+            Confortável com a visibilidade
+            Precisa motivar, comunicar, orientar e guiar
+            Saber negociar! Proteger o time das interferências...
+            Certa teimosia!
+            Desejável: experiência na área que irá atuar - ter discernimento, não totalmente familiarizado
+
+        Como medir?
+            Designando trabalho não é boa práticas
+            Daily Scrum é para todo mundo, não para o scrum Master
+            

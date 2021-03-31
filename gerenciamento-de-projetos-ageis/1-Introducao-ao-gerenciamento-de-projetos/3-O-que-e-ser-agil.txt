@@ -6,10 +6,10 @@
         Ao invés de fixar a várivel funcionalidade, fixamos o prazo e os recursos
 
         4 valores:
-        individuos e interações mais do que processo e ferramentas
-        software funcionando mais do que documentação compreensiva
-        Colaboração do cliente mais do que negociação do contrato
-        Resposta para mudar mais do que seguir um plano
+            individuos e interações mais do que processo e ferramentas
+            software funcionando mais do que documentação compreensiva
+            Colaboração do cliente mais do que negociação do contrato
+            Resposta para mudar mais do que seguir um plano
 
         Liberação rapida e continua de software de valor
         Devem admitir mudanças que trazem vantagens competitivas

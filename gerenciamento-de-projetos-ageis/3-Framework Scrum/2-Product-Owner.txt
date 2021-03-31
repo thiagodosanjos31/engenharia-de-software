@@ -1,0 +1,21 @@
+    Product Owner
+        É um especialista do negócio, representante de todos os Stakeholders.
+        Estabelece e comunica a visão do produto.
+        Cria o Release Plan e Product Backlog Iniciais
+        Monitora o projeto contra suas metas de ROI.
+        Atualiza e prioriza continuamente o Product Backlog para assegurar que as funcionalidades mais valiosas serão produzidas primeiro.
+        Responde e apoia o Scrum Team para sanear dúvidas sobre os requisitos.
+    
+    Perfil:
+        Trabalha para a equipe
+        Bom ouvinte
+        Capacidade de entender o que a equipe necessita
+        Ter visão global
+        Não ficar mudando de opinião sempre
+        Ser disponível para o time
+    
+    Como medir?
+        "O teste da galinha"
+        "Sprints que falharam, impossibilidade de soltar um release"
+        "Quem é o responsável?": Problemas causados por um time recebendo sinais misturadores ou em direções ambíguas da múltiplos PO.
+        "Seu time está desmotivado"

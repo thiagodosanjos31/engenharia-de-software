@@ -1,0 +1,37 @@
+    Lean
+
+    "Maximizar o valor do cliente enquanto diminui desperdício."
+    Kaizen = Melhoria contínua
+
+    7 conceitos:
+    Eliminar desperdício
+    Empoderar o time (não focar em microgerenciamento)
+    Entregar o mais rápido iterações curtas e feedback constante
+    Otimizar o todo
+    Planejar algo cedo mas poder decidir o mais tarde possível
+    Amplificar aprendizagem
+
+    Cultura STOP THE LINE: Faça certo da primeira vez!
+    Preocupação com as falhas
+    Relutância em simplificar motivos de falhas
+    Compromisso em aprender com os erros
+    Reverência à expertise técnica
+    (Just in time) Eliminação de inventário
+    Otimização holística de processo e não de suas partes
+
+    7 desperdícios:
+    Estoque / Movimentação / Retrabalhos / Processamento / Transporte / Espera / Produção em excesso
+
+    Desperdícios ocultos:
+    Especificações inadequadas de trabalho
+    Tempo ideal
+    Falha do produto em campo
+
+    Lean development (desperdícios):
+    Trabalho parcialmente feito
+    Processamento extra que não agrega valor (documentação não usada)    
+    Funcionalidades extras (que não são requiridas)
+    Mudança de tarefa (perda de tempo com contexto)
+    Espera (por revisão e aprovação)
+    Movimentação (de informação, por exemplo)
+    Defeitos (documentos ou software que precisam de correção)

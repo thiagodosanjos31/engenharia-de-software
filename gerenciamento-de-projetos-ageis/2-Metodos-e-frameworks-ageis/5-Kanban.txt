@@ -1,0 +1,40 @@
+
+    Kanban
+
+        Surgimento
+        => Lean Software Development (2006)
+        => 2010 => Kanban
+
+
+    1. Objeto: Cartão sinalizador
+    2. Sistema: sistema de fluxo de entrega que controla a quantidade de trabalho em progresso usando sinais visuais
+    3. Método: Método para definição, gerenciamento e melhoria de serviços que entregam trabalho do conhecimento
+
+    
+    3 princípios básicos
+
+        1. Comece com o que você sabe
+        2. Faça mudanças contínuas e pequenas
+        3. Respeite o processo atual, titulos e responsabilidades
+
+    Práticas centrais
+        
+        Visualizar fluxo de trabalho
+            Commitment (Definição de pronto) ======= Delivery (Definição de feito)
+                                               WIP            
+
+        Limitar trabalho em progresso
+            Definir a quantidade  de trabalhos selecionados/ em desenvolvimento/ em aceite
+            Transparência, inspeção e adaptação
+            WIP está intimamente ligado à entrega
+        
+        Tornar políticas explícitas
+        
+        Implementar laço de feedback
+
+        Cumulative Flow Diagram
+            / \
+             |
+Nº of feature|
+             |__________ >
+                TIME
