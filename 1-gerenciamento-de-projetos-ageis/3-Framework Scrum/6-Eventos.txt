@@ -1,0 +1,31 @@
+    Eventos
+        Sprint
+            Timebox (inegociável)
+        
+        Sprint Planning
+            O que pode estar pronto como resultado do incremento da Sprint
+        
+        Sprint Goal (meta)
+            É uma meta visionária estabalecido pelo PO ao final da reunião de planning
+
+        Daily Scrum
+            Reuniões diárias
+            Tem duração de 15 minutos
+                O que fiz hoje que ajudou atender a meta?
+                O que farei amanhã para ajudar a atender a meta?
+                Eu vejo algum obstáculo que impeça a mim ou o time no atendimento da meta da Sprint?
+
+        Maxwell Curve
+            Não fazer pela metade!
+            Fazer certo da primeira vez
+            Trabalhar demais resulta em mais trabalho
+
+        Impedimentos
+            Problemas pessoais
+            Interrupções externas
+
+        Sprint Review
+            Após cada sprint para demonstrar o trabalho realizado no Sprint (e é avaliado pelo PO)
+
+        Sprint Retrospective
+            Levantamento das lições aprendidas (WWW - WCBI)

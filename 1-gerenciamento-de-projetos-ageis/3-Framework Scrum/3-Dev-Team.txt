@@ -1,0 +1,20 @@
+    Time de desenvolvimento
+        Grupo que realiza o trabalho de entrega um incremento do produto ao final de cada Sprints
+        Auto-organizados (em todo do GOAL)
+        Multifuncionais
+        A responsabilidade pelo trabalho é de todos, a despeito das habilidades e especializações individuais.
+    
+    Perfil do dev Team
+        Não deve ser individualista
+        Sentido forte de equipe
+        Não ter medo de desafios
+        Saber assumir responsabilidades
+        Tecnicamente, deve ter habilidades diversas
+        Pode iniciar como especialista, mas aos poucos vão se tornando colaborativos em demais áreas
+
+    Como verificar?
+        Velocidade instável
+        Perda de ritmo
+        Não obedece as práticas ágeis
+        Possui papéis fixos
+        Resultados que persistem como Burndown

@@ -1,0 +1,39 @@
+    Artefatos
+
+        Product Backlog
+            Pilha de demandas
+            Mantida pela PO
+            Ordenada (por priorização) com base em seu Bussiness Value
+                Quanto mais prioritário, ele deve estar melhor descrito
+
+        Decomposição
+            Processo de levantar e detalhar requisitos no momento em que se tem todas as informações necessárias para seu melhor planejamento
+
+                Temas (coleção de user storie*)
+                Épicos (grandes user stories que ainda não vão ser desenvolvidas naquele momento)
+
+                Theme => Epics => Features => Tasks
+        
+        Sprint Backlog
+            Itens do backlog do produto selecionados para essa Sprint
+            
+        Incremento
+            É a soma de todos os itens do Backlog do Produto completados durante a sprint e o valor dos incrementos de todas as sprints anteriores
+
+        Estado ready
+            User storie preparada para ser desenvolvida
+                Escrito com clareza e entendido por todos da equipe
+                Granularidade suficiente para ser desenvolvido em um timebox
+                Tem testabilidade comprovada através de critérios de aceite
+
+        Estado done
+            Passos mínimos para a conclusão de um item potencialmente entregável
+                Desenvolvimento da feat
+                Unit test
+                Integration test
+                Build
+
+
+
+Legenda:
+    * (descrição da funcionalidade desejada pela perspectiva do cliente)

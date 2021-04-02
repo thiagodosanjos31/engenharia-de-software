@@ -1,0 +1,21 @@
+    Outros artefatos
+    
+        Impediment Backlog
+            Pilhas de impedimento
+        
+        Retrospective Itens
+            What when well / What could be improved
+        
+        Burndown e Burnup
+            Demonstram progresso
+        
+        Razões para desvios em projetos
+            Mudança de escopo
+            Mudança na equipe
+            Melhora/piora produtividade
+
+        CFD
+            Cria uma visualização de "estoque" de trabalho a fazer
+        
+        WIP
+            Dinheiro investido com nenhum retorno de investimento ainda
