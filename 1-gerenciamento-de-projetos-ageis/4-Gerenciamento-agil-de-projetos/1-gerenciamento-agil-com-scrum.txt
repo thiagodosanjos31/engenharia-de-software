@@ -1,0 +1,33 @@
+Planejamento
+Encoraja a mudança
+Planos facilmente modificáveis
+É distribuído ao longo do projeto
+São iterativos e incrementais
+Comunicação banda larga
+Escopo aberto
+Enfase em colaboração
+
+• Foco no Output e não no Input
+
+• Planejamentos preditivos:
+    - Criação de um plano com atividades definidas
+    - O gerenciamento/acompanhamneto de atividades conforme o plano
+• Planejamento ágil:
+    - Criação de entregas com conjunto de itens priorizados
+    - Gerenciamento via feedback e constante adaptação
+
+• Tradicional "Command and Control Strategy"
+• Agile, "Facilitation and Empowerment Strategy"
+
+• Cliente sempre por perto e fazê-lo um participante ativo.
+• Iteraçõs curtas
+• Atendimento ao goal
+• Identificação e gerenciamento dos riscos
+• O controle da qualidade dos trabalhos é avaliado continuamente através de testes, revisão por pares, inspeção contínua, etc.
+• Impedimentos são levantados e estes devem ser resolvidos em 24 horas.    
+
+Variáveis que requerem cuidado:
+    1. Recursos
+    2. Tempo
+    3. Escopo
+    4. qualidade
