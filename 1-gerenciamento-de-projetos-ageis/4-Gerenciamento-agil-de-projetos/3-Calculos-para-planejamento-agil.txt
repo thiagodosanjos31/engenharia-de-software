@@ -1,0 +1,17 @@
+    Disponibilidade de Equipe
+        Calcular produtividade diária individual
+            Não planejar 8 horas de trabalho diárias e sim 5,5 à 6hs/dia
+        
+    Produtividade da equipe
+        Calcular a produtividade inicial da equipe
+            1 Ideal Day ou Story Point
+        
+    Velocidade da equipe
+        Número de ideal days ou story points por sprint
+
+    Esforço
+        Medido em horas
+        Tamanho do item * número de horas
+
+    Viabilidade de um release/sprint
+        Número de IDs ou Sps * Produtividade da equipe = Horas do cálculo de disponibilidade
