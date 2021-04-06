@@ -1,0 +1,56 @@
+Estimativas ágeis
+    São utilizadas para correlatar contra os desempenhos observados no passado e então criar previsões de desempenho futuro.
+        - Esforço deriva de tamanho. Custo e prazo a partir do esforço e qualidade de um conjunto maior além dos citados!
+        
+    Estimativas x "Exatimativa" (não é algo exato)
+    Problemas de abordagem: queremos determinar um único valor!
+        Possível solução:
+            - Utilizar PERT e consequentemente um range de valores (No melhor caso / No pior caso / No mais provável)
+            - Utilizar checkpoints bem definidos
+
+    Estimativas sofrem influências diversas e carregam riscos inerentes
+        Tecnologia
+        Equipe
+        Tamanho e tipo do projeto
+        Maturidade dos requisitos
+
+    Estimativa podem ser auxiliadas por:
+        Experiência
+        Histórico
+        Comprometimento
+    
+    Medidas ágeis de tamanho
+        Story points / Ideal days
+    
+    Técnicas de Estimativa
+        Contar, Computar e julgar: linhas de código, requisitos, casos de uso, funções, etc.
+        Opinião do Especialista
+        Decomposição e recomposição
+        Estimativas por analogia
+        Estimativas baseadas em proxy (baseado em alguma escala)
+        Julgamento de especialistas em grupo
+    
+    Story points
+        baseia-se no tamanho da estória levando em consideração a dificuldade, complexidade e conhecimento
+            Principais técnicas para estimar:
+                - Opinião de especialista
+                - Analogia
+                - Quebra de estórias
+            1 - 2 - 3 - 5 - 8 - 13 - 20 - 40 (Sequência de Fibonacci)
+            - Não linear: quanto menor o item, mais precisa a Estimativa
+            - Tamanho 40 e 100: somente para itens de menor prioridade no backlog ("épicos")
+            - Tamanhos / Esforço
+    
+    Ideal day
+        Corresponde à quantidade de trabalho que um profissional de nível sênior, com fluência nas tecnologias e ferramentas envolvidas consegue realizar em oito horas de trabalho dedicadas.
+
+    Planning Poker
+        Estimativa empírica é uma maneira sensata de se prever o tamanho de requisitos acompanhada por:
+            PERT = Melhor Caso + 4 * Mais Provável + Pior caso / 6
+            Carta: ? -> julgamento do item está acima da ordem de grandeza
+            O item deve ser lido e discutido por todos
+            Pode-se:
+                Melhorar a especificação do item
+                Decompor o item
+                Simplesmente prestar mais esclarecimentos aos votantes
+    
