@@ -1,0 +1,15 @@
+    Priorização de backlog
+
+        Decidir o que deve ser feito
+        Priorizar é um trabalho imprescindível ao sucesso de um projeto
+        
+        Bussiness Value
+        Risco (incertezas associadas ao desenvolvimento da funcionalizade)
+        
+        Priorização:
+            Baseada em valor
+            maior demanda / menor tamanho  
+
+            Baseada em Risco
+            Maior valor / Maior Risco
+

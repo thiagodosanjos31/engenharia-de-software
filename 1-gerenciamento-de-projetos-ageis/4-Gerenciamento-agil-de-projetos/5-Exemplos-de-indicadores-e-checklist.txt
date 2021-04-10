@@ -1,0 +1,38 @@
+    Exemplos de indicadores e checklists
+        Burndown
+            Mede o progresso do trabalho.
+            Y: Trabalho
+            X: Dias
+        
+        Indicador:
+            Atendimento à meta do Sprint
+                Pode-se criar mecanismos de premiação
+            
+            Entrega de maior Business Value
+
+            Previsto x Realizado
+                Eficácia do dimensionamento
+
+            Plano de capacitação
+                Pessoas se auto-avaliarem em habilidades necessárias
+
+            Dashboard
+                acompanha a evolução das entregas
+
+            Checklist "As maximas"
+                Entregar:
+                    Testado e funcionando
+                    O que mais precisa
+                    Continuamente melhorando     
+
+            Cerne do Scrum
+                Retrospectivas
+                Ter um backlog
+
+            Recomendado
+
+            Indicadores positivos
+                Divertido
+                Hora-extra é rara
+                Experiências                            
+            

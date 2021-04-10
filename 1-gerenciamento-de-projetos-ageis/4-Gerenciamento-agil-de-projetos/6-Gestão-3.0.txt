@@ -1,0 +1,56 @@
+    Pessoas e a organização ágil
+
+        VUCA World:
+            Volatility
+            Uncertainty
+            Complexity
+            Ambiguity
+
+            VUCA é um diagrama com retas X/Y
+        
+            Visão: Quando temos alta taxa de mudança precisamos comunicar metas
+            Entender: fazer perguntas que desafiam o status quo da organização
+            Clareza: Simplificar, usar a intuição e abordar os problemas de forma holística
+            Agilidade: Adaptar rapidamente às mudanças
+
+            Neuroplasticidade: refere-se a capacidade do cérebro de modificar sua estrutura e função a partir de experiências anteriores
+            Organoplasticidade: significa que uma empresa está aumentando sua boa forma organizacional
+
+            Seis visões
+                Energizar pessoas: "Pessoas são a parte mais importante de uma empresa"
+                    Fatores:
+                        Reconhecimento imediato
+                        Celebração dos objetivos alcançados
+                        Alinhamento das metas
+                        Poder de decisão
+                        Metas desafiadoras
+                
+                Dar poder aos times
+                    Necessário delegar, distribuir autoridades e controle.
+                    Times que trazem resultados positivos fazem seus gerentes também serem bem sucedidos
+                        (7 níveis de delegação) Gestão a vista
+                            O gestor:
+                            1. Diz
+                            2. Vende a idéia
+                            3. Consulta o time
+                            4. Concorda (discussão)
+
+                            Palavra final do time e o gestor:
+                            5. Aconselha
+                            6. Questiona
+                            7. Delega
+                
+                Alinhar as restrições:
+                    Definição, comunicação e distribuição real de um propósito claro e metas
+                
+                Desenvolver as competências:
+                    Times que não conseguem atingir metas, devem ser monitorados para desenvolverem suas habilidades.
+                
+                Crescer a estrutura de comunicação
+                    A gestão deve criar formas simples que proporcionem uma comunicação efetiva.
+                
+                Melhorar Continuamente
+                    Ciclos de feedback (reflexão)
+
+            Agile Manager
+                É necessário uma gestão que auxilie e trabalhe em conjunto.
