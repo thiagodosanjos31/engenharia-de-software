@@ -1,0 +1,6 @@
+A)Assinale as cerimônias abaixo que se caracterizam como oportunidades para inspeção e adaptação, dois dos pilares do Scrum:
+    Sprint Planning Meeting, Sprint Retrospective Meeting e Sprint Risk Meeting.
+
+B)Um Sprint torna o tempo cíclico. Ele possui momentos de planejamento, execução, monitoramento e finalização.
+
+É comum ocorrer durante um Sprint:    
