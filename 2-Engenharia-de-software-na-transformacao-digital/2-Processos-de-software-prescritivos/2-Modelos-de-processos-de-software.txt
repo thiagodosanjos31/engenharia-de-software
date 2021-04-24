@@ -1,0 +1,92 @@
+    Modelos
+        Cascata
+            Comunicação > Planejamento > Modelagem > Construção > Entrega
+            Há uma variação do modelo em cascata chamado modelo em V.
+
+            Desvantagem:
+                Atrasa e agrupa os testes do sistema
+                Adia a identificação de riscos
+                Torna difícil a entrega parcial de produtos
+                Difícil de lidar com mudanças de requisitos
+
+
+        Incremental
+            Combina elementos dos fluxos de processos lineares e paralelos.
+
+        Evolucionário
+            São iterativos ou incrementais
+            • Prototipação e modelo espiral
+
+        Concorrentes
+            As atividades podem ser realizadas paralelamente
+
+    Modelos de Processos Especializado
+        Processo de software pessoal
+            O processo de software deve se adequar às pessoas e não o contrário.
+            Enfatiza a importância de se aprender com os erros
+
+            Cinco atividades estruturais:
+                Planejamento
+                Projeto de alto nível
+                Revisão de projeto de alto nível
+                Desenvolvimento
+                Autópsia (análise postmortem)
+            
+        Processo de software em equipe 
+            Criar equipes autodirigidas para produzir software de alta qualidade
+            Objetivos do TSP:
+                Criação de equipes autodirigidas que planejem e acompanhem seu próprio trabalho, estabeleçam metas e seja proprietárias de seus processos e planos
+                Mostrar aos gerentes como treinar e motivar suas equipes, mantendo alto desempenho.
+                Fornecer orientação para melhorias a organizações com elevado grau de maturidade
+                Facilitar o ensino universitário de habilidades de trabalho em equipe
+            Atividades metodólogicas do tsp:
+                Lançamento do projeto
+                Projeto de alto nível
+                Implementação
+                Integração e testes
+                Autópsia (análise postmortem)
+            
+        Processo de manutenção de sistemas
+            Identificação do problema
+            Análise do impacto da alteração demandada pelo problema
+            Planejamento da abordagem
+            Atualização da documentação existente
+            Implementação das alterações
+            Implantação das alterações
+            Treinamento
+        
+        Organização de times de software    
+            Estrutura centralizada
+            Estrutura descentralizada
+            Terceirização
+
+        Processos e equipes no modelo cascata
+            Modelo monolítico (analista-projetista-desenvolvedor)
+                Planejamento
+                Não é escalável
+        Iterativos  
+            Arquiteto de sistemas com visão macro
+            Analista de sistema com visão micro
+            Desenvolvedor com visão micro
+        
+        Desafios do processo de software    
+            Relacionados às pessoas
+                Inteligência compartilhada
+                Integração
+                Comunicação
+
+            Relacionados aos problemas
+                Dividir para conquistar
+            
+            Relacionados aos processos
+                Visão integrada
+                Ciclo de vida do processo de desenvolvimento de sistemas
+            
+            Relacionados ao projeto
+                Gerenciamento, controle e resultado
+
+        Acompanhamento de projetos de software
+            Como dividir e organizar?            
+
+
+        

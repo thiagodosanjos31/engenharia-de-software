@@ -1,0 +1,34 @@
+    Processo unificado
+        Autor: Jacobson, Ivar, Booch (The unified software development process)
+        Baseado em princípios da UML
+        Reúne os elementos de todos os modelos de processo genéricos e apoia a prototipação e a entrega incremental do software.
+
+    Características chave do UP
+        Processo de software dirigido à requisitos
+        Centrado na arquitetura
+        Iterativo e incremental (espiral)
+
+    Fases do RUP
+        Concepção
+            Definição dos casos de uso mais críticos
+            Delimita-se o escopo do produto a ser desenvolvido
+        Elaboração
+        Construção
+        Transição
+
+    Número de iterações
+        Projeto muito simples
+            4 Iterações (uma para cada fase)
+        Projetos maiores
+            6 
+                (1 para concepção e 2 para elaboração)
+                (2 para construção e 1 para transição)
+        Projetos maiores ainda com muitas tecnologias desconhecidas
+            +1 para cada acima
+    
+    Quanto tempo dura uma iteração?
+        Depende
+            pessoas / domínio
+        Mas geralmente não devem ser menos do que um mês e maiores que três
+
+            

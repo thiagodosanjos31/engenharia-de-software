@@ -1,0 +1,45 @@
+    Leis de Lehman
+        Lei da mudança contínua
+            Para satisfazer as demandas dos seus usuários
+        Lei da Complexidade crescente
+            Impõe um aumento de complexidade que precisa ser tratada
+        Lei da Autorregulação
+            A evolução é autorregulada com a distribuição do produto e de medidas de processo
+        Lei da Conservação de Estabilidade Organizacional
+        Lei da Conservação da Familiaridade
+            Os envolvidos devem manter domínio de seu conteúdo e comportamento para uma evolução satisfatória
+        Lei do Crescimento Contínuo
+            Continuamente ampliado para manter a satisfação dos usuários
+        Lei da Qualidade em declínio
+            Vai diminuir a menos que seja mantido e adaptado organizacionalmente
+        Lei do Sistema de realimentação
+    
+    Manutenção de software
+        Começa imediatamente após a entrega
+        A manutenibilidade de um software é um indicativo de qualidade
+        *Mineração de repositórios de software
+    
+    Reengenharia de processos de negócio
+        Um processo de negócio é um conjunto de tarefas relacionadas de maneira lógica, desempenhadas para obeter um resultado de negócio definido.
+        A reengenharia é a busca e a implementação de mudanças radicais nos processos de negócio para obter resultados excelentes 
+    
+    Reengenharia de software  
+        É o trabalho de reforma de um software
+        Para melhorar o desempenho, a manutenibilidade, a arquitetura, a seguração e promover a transformação digital
+
+    Processo de reengenharia de software
+        Análise de inventário
+            Lista das aplicações da org
+            Forma com elas estão integradas
+        Reestruturação de documentos
+            Falta de documentação é um problema recorrente
+        Engenharia reversa
+            Processo de recuperação do projeto
+        Reestruturação do código
+            Refatoração
+            Melhoria da qualidade do código
+            Podemos usar o SonarQube (por exemplo)
+        Reestruturação dos dados
+            Mudanças de arquitetura e também no código
+        Engenharia direta
+            Recuperação do projeto do software com a sua respectiva alteração
