@@ -1,0 +1,46 @@
+    O que é agilidade?
+        Eficácia (rápido e adaptativo) para resposta a mudanças
+        Eficácia na comunicação entre os stakeholders (envolvidos)
+        Envolvimento do cliente na equipe de desenvolvimento
+        Organização da equipe para entregar incrementos de software
+        Produzindo rapidamente, software de forma incremental
+    
+    Agilidade e o custo da mudanças
+        Menor do que os processos convencional
+
+    Manifesto ágil
+        Em síntese...
+            Faça da comunicação um pré-requisito
+            Entregue valor a todo instante
+            Torne as pessoas sensacionais
+            Experimente e aprenda rápido
+
+        12 princípios da Agile Alliance
+            1. Maior prioridade é satisfazer o cliente por meio de entrega adiantada e contínua de software valioso
+            2. Acolha bem os pedidos de alterações
+            3. Entregue software em funcionamento frequentemente (dando preferências a intervalos mais curtos)
+            4. O pessoal comercial e os desenvolvedores devem trabalhar em conjunto diariamente ao longo de todo o projeto
+            5. Construa projetos em torno de indivíduos motivados
+            6. O método mais eficiente e efetivo de transmitir informações é uma conversa aberta, de forma presencial
+            7. Software em funcionamento é a principal medida de progresso
+            8. Os processos ágeis promovem desenvolvimento sustentável
+            9. Atenção contínua para com a excelência técnica e para com bons projetos aumenta a agilidade
+            10. Simplicidade
+            11. As melhores arquiteturas, requisitos e projetos emergem de equipes que se auto organizam
+            12. A intervalos regulares, a equipe se avalia para ver como tornar-se mais eficiente, então sintoniza e ajusta seu comportamento de acordo com o que seja necessário
+
+    Política do desenvolvimento ágil  
+        Grande discussão acerca das metodologias tradicionais versus metodologias ágeis
+        Não se pode apontar melhor ou pior
+        O idel é aplicar o melhor de cada uma para cada contexto
+    
+    Fatores Humanos
+        O processo se adapta às necessidades das pessoas e equipe
+        Competência
+        Foco comum
+        COlaboração
+        Habilidade na tomada de decisão
+        Habilidade de solução de problemas confusos
+        Confiança mútua e respeito
+        Auto-organização
+
