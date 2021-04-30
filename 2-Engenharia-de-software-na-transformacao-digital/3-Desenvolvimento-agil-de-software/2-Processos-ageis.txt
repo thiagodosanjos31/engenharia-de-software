@@ -1,0 +1,71 @@
+Processo ágil
+    Dirigido por cenários construídos pelos clientes com seus requisitos
+    Planejamento tem vida curta
+    Desenvolvimento iterativo com uma forte ênfase nas atividades de construção
+    Entrega de múltiplos incrementos de software
+    Adaptação às mudanças
+
+    Extreme Programming
+        Proposto por Kent Beck em 2004
+        Processo ágil mais utilizado
+
+        Valores básicos
+            Comunicação estreita e informal
+            Simplicidade
+            Feedback
+            Coragem (ou disciplina)
+            Respeito
+
+        Codificação
+            Recomenda a construção de testes de unidade antes do início da Codificação
+            Encoraja a programação em par
+        
+        Teste
+            Todos os testes de unidade são executados diariamente
+            Testes de aceitação são definidos pelo cliente para avaliação de uma funcionalidade
+        
+        Indsutrial XP
+            Evolução orgânica do XP
+                Avaliação imediata
+                Comunidade de projeto
+                Mapeamento de projeto
+                Gerenciamento orientado a testes
+                Retrospectiva
+                Aprendizagem contínua
+            
+    Desenvolvimento de Software adaptativo
+        Proposto por Jim Highsmith em 2000
+        Planejamento dirigido a missão
+        Foco no dev baseado em componentes
+        Uso de timed-boxe
+    
+    Método dinâmico de desenvolvimento de sistema
+        O envolvimento ativo do usuário é imperativo
+        As equipes devem ter autonomia para tomada de decisão
+        O foco é a entrega frequente de produtos
+        Conveniência para o negócio é um critério essencial para aceitação da entrega
+        Desenvolvimento iterativo e incremental é necessário para convergência de uma solução de negócio correta
+        Todas as mudanças durante o desenvolvimento são reversíveis
+        Requisitos são marcos de alto nível
+        Testes são integrados ao longo do ciclo de vida
+    
+    Crystal
+        Proposto por cockburn e highsmith em 2002
+        Características:
+        Permite a adaptabilidade baseada nas características do problemas
+        Ênfase na comunicação face a face
+        Sugere-se o uso de workshops de reflexão para revisão da forma de trabalho da equipe
+    
+    Desenvolvimento direcionado por características
+        Ênfase na definição de características, que é uma função valorizada pelo cliente que pode ser implementada em duas semanas ou menos
+        <action> the <result> <by | for | of | to> a(n) <object>
+
+    Processo Unificado ágil
+        Serial para o que é amplo
+        Iterativo para o que é particular
+        Modelagem
+        Implementação
+        Teste
+        Aplicação
+        Configuração e gerenciamento de projeto
+        Gerenciamento do ambiente
