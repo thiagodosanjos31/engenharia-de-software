@@ -1,0 +1,52 @@
+    Origem do Kanban
+        Palavra de origem japonesa que significa registro ou placa visível
+        Sistema de escalonamento para produção "enxuta" e "just-in-time"
+        Desenvolvido pela Toyota
+    
+    Como funciona?
+        Cartões para indicar o fluxo de uma produção em série
+        Cada tarefa está associada a um cartão
+            1. visualizar processor
+            2. limitar o trabalho em processo
+            3. gerenciamento do leadtime
+        
+    Implementação do Kanban
+        O número de atividades ou cartões em circulação é equivalente à capacidade de sistema
+        Conceito de "puxar tarefa" quando há capacidade de processá-leadtime
+        
+        Colunas
+            Backlog Queue
+            To do
+            In progress
+            To be verified
+            Done
+            In prod
+
+            {OU}
+
+            Backlog
+            Análise
+            Dev
+            Teste
+            Aprovação
+            Finalizado
+
+    Por que usar?
+        Manter, medir, otimizar e visualizar um fluxo constante de trabalho.
+        Limitar a quantidade de trabalho em andamento e reduzir estresse da equipe.
+        Melhorar a previsibilidade e a colaboração.
+        Contribuir para a maturidade da equipe.
+
+    Quando não usar métodos ou processos ágeis?
+        Condições do mercado são estáveis e previsíveis
+        Requisitos são claros no início do projeto e irão permanecer estáveis
+        Clientes não estão disponíveis para colaboração frequente
+        Sistema semelhante já foi feito antes; logo, já se conhece a solução
+        Problemas podem ser resolvidos sequencialmente em silos funcionais
+        Impacto de mudanças provisórias pode ser catastrófico
+
+
+
+
+
+    

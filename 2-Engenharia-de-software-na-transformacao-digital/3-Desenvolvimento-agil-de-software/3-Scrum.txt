@@ -1,0 +1,71 @@
+    Scrum
+        Declaração de interdependência da Gestão de Projeto ágil
+            Aumentamos o retorno de investimento
+            Entregamos resultados confiáveis
+            Esperamos incertezas (interações, antecipação e adaptação)
+            Promovemos criativdade e inovação
+            Impulsionamos o desempenho
+            Melhoramos a eficácia e a confiabilidade
+
+        Origem do Scrum
+            Scrum do Rugby
+            (Papéis muito bem definidos e coordenação)
+        
+        Como funciona?
+            PO: Gera demanda para o ciclo do Scrum
+            Product Backlog (Features) > Spring Backlog (Stories)
+            Spring Planning > Daily > Product Increment
+
+        Papéis fundamentais do Scrum
+            PO
+            Scrum Master
+            Scrum Team (Dev, QA, Analista de negócios, Arquiteto)
+
+        Scrum of scrums
+            Tribes
+
+        Início de um projeto scrum
+            PO ou usuários que representem os stakeholders gera o Backlog
+
+        Backlog de produtos
+            Lista de requisitos priorizadas
+
+            Criação de um backlog de produto            
+                Costumam ser coletados como histórias de usuários curtas
+                Workshop de um ou dois dias, anterior à reunião de planning e planejamento de releases
+            
+        Planejamento de releases
+            Socialização da agenda de entregas prováveis
+            Cerca de quatro horas para cada sprint de duas ou quatro semanas
+        
+        Planejamento de Sprints
+            Duração: cerca de oito horas para cada sprint de duas semanas
+
+        O que deve ser feito na Sprint?
+            Backlog de Sprint (que não pode ser modificado)
+
+        Como a Sprint deve ser realizada?
+            Identificação de tarefas com base nas histórias dos usuários
+            Estimativa de tempo para os incrementos que serão entregues
+
+        Daily
+            Duração: 15 minutos
+            O que foi feito desde a última reunião
+            Quais foram os obstáculos
+            O que será feito
+
+        Remote Daily Meeting
+            (Camera aberta?)
+        
+        Reunião para revisão da Sprint
+            Relatar o que foi feito para obter Feedback
+            Apresentar e explicar o que não foi feito
+            Atualizar o roadmap do produto
+
+        Retrospectiva
+            O que funcionou e o que não funcionou e o que pode melhorar para o próximo Sprint?
+
+        Responsabilidades
+                   
+
+* Engenheiros de software são Devs (Deveriam trocar a nomenclatura?)
