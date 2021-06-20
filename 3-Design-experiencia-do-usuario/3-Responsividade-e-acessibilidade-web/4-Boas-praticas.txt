@@ -1,0 +1,28 @@
+    Boas práticas:
+        Projete mobile-first
+            É mais fácil aumentar o layout do que diminuir
+            É possível que a maioria dos usuários acessem através do mobile
+        Não se esqueça do desktop
+        Crie layouts fluidos
+            Fixed não >> Fluid sim
+        Diferentes dispositivos podem requerer diferentes tipos de navegação
+            Pode ser necessário redesenhar o site
+        Não esconda conteúdo
+            Priorize conteúdo
+            O usuário não está necessariamente com preça
+        Projete para o touch 
+            Tap
+            Double Tap
+            Drag
+            Flick
+            Pinch
+        Considere a performance do conteúdo em relação a internet
+            Por exemplo, no mobile, imagens grandes para telas grandes e imagens pequenas para telas pequenas
+            Considere tempo de carregamento
+        Não use só "Lorem Ipsum"
+        Teste em diferentes dispositivos
+
+    Ferramentas:
+        Material.io - grid
+        My Device
+        

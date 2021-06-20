@@ -1,0 +1,46 @@
+    Human Computer Interface
+        Segmentos de Clientes (vulgo Pessoas rs)
+        Pessoa que usa, no momento que usa (Balada, trabalho, casa, etc)
+        Apple: novo paradigma de dispositivos móveis
+        Barbearias x Cabelereiros
+        Orkut x Facebook x Instagram
+        Por que entender o usuário?
+            > Projetar soluções personalizadas
+            > Se comunicar de forma mais pessoal
+            > EMPATIA 
+        
+    Lógica Produto X Benefício        
+        5 por quês para entender o real benefício
+        O que o usuário pede para você não é sempre necessariamente o que ele precisa
+        Entenda o benefício por trás do produto
+
+    Percepção de valor
+        Utilidade (Oferece o valor)> Usabilidade (É fácil de acessar o valor)> Desejabilidade (Entrega do valor é emocionalmente engajante)
+        Qualidade atribuída a algo ou alguém
+        Percepção: custo-benefício ou satisfação
+        > gerar satisfatação do cliente / diferencial competitivo
+
+    Público alvo
+        Dados demográficos
+            Idade
+            Genero
+            Ocupação
+            Classe
+            Ondem moram
+        Quem é o seu usuário?
+            É de difícil visualização e falha
+        Utilizar a estratégia de Público Alvo + Personas
+
+    Persona
+        É o público alvo mas tangível
+        São personagens fictícios que nos auxiliam a visualizar o público que atendemos
+        Dados Demográficos + Gostos / Desgostos / Comportamentos
+        A partir de um personagem fictício criado:
+            Será que esse personagem gostaria do produto?
+            Como o lucas gostaria de ser chamado?
+            Como ele conversa?
+            Como ele ficou sabendo da empresa?
+        Evite personas demais!!!
+        Coleta de dados
+            Sistema de gestão (Analytics)
+            Conversas com colaboradores + clientes

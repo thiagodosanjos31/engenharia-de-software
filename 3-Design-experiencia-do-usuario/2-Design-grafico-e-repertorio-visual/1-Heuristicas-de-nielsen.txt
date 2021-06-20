@@ -1,0 +1,66 @@
+    O que são?
+        Tratam-se de 10 príncipios para elaboração de uma boa interface
+
+        Antes de entrar na interface, verifique se o produto entrega valor
+
+        Benefícios:
+            Fazer com que o usuário não precise de um manual de instrução
+            Projetar uma boa interface
+
+        1. Visibilidade do estado do sistema
+        2. Correspondência entre o sistema e o mundo real
+        3. Liberdade e controle para o usuário
+        4. Consistência e padrão
+        5. Prevenção de erro
+        6. Relembrar ao invés de memorizar
+        7. Flexibilidade e eficiência de uso
+        8. Projeto e estética minimalista
+        9. Ajude o usuário a reconhecer e se recuperar de erros
+        10. Ajuda e documentação
+    
+    1. Visão do estado do sistema
+        O usuário deve saber o que está acontecendo, onde ele está, quais as etapas, para onde ele pode ir, etc
+    
+    2. Correspondência entre o sistema e o mundo real
+        O usuário é uma pessoa no mundo e já há códigos que existe e ele compreende.
+        Ou seja,
+            Falar a mesma língua e o modelo mental do usuário
+            Evitar linguagem técnica
+        
+    3. Liberdade e controle para o usuário
+        Todo usuário pode cometer algum equívoco no sistema
+        Usuários ficam inseguros se não podem desfazer os seus erros
+        > Facilite saídas de emergência
+
+    4. Consistência e padrão
+        Mantenha consistência entre as telas e padrões de interação
+        > Design System
+        Melhor uma interface consistemente feia, do que uma esporadicamente bonita
+
+    5. Prevenção e erro
+        Melhor que deixar o usuário fazer um erro, é evitar que eles aconteçam
+        Ações drásticas devem ser bem sinalizadas
+
+    6. Relembrar ao invés de memorizar
+        O cérebro é melhor em reconhecer do que memorizar
+        Disponibilize ajudas contextuais
+
+    7. Flexibilidade e eficiência de uso
+        Interface tanto para leigos quanto para usuários avançados
+            (Personalização de menus, atalhos, preenchimentos de dados automáticos)
+    
+    8. Projeto e estética minimalista
+        Quanto mais informação, mais o usuário tera que compreender
+        > Foque no essencial, mais simples e direto possível
+        Evite elementos visuais que vão confundir ou distrair o usuário
+    
+    9. Ajude o usuário a reconhecer e se recuperar de erros
+        > Mensagens de erros claras
+        > Mensagens de erros devem ser exibidas o mais próximo possível da realização do erro
+    
+    10. Ajuda e documentação
+            O ideal é evitar que seu usuário precise desses itens
+            Tente deixar a documentação próxima da demanda que necessite dessa solicitação
+
+    
+

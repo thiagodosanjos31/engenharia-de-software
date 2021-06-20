@@ -1,0 +1,137 @@
+    Design systems e guias de estilos
+
+    Design systems
+        É um conjunto pré construído de elementos, padrões e regras para a criação de interfaces
+    
+    Por que?
+        Maior agilidade no processo de prototipagem
+        Maior consistência
+        Não ter que começar do zero cada novo elemento
+
+    O que deve ter?
+        Fontes utilizadas, hierarquias, funções, paleta cromática, características básicas de elementos e regras básicas de ícones, imagens, grid e layout
+        Complete o que for necessário
+    
+    Exemplos
+        Material design (Google)
+        Bold (Ufsc)
+        Adele (banco de design systems open source)
+    
+    Teste!
+
+    Hierarquia e organização
+        Princípios de organização visual
+            Agrupamento (por semelhança)
+            Alinhamento
+            Cores
+            Tamanho
+            Símbolos/imagens
+    
+        Hierarquia visual
+            O que você quer que seja visto primeiro?
+
+    Grid e layout
+        Grid são as linhas invisíveis que ordenam o nosso layout
+        Mantenha próximos elementos relacionados e distantes elementos diferentes
+        > Tenha espaço "em branco" para respiro
+            Facilita leitura, hierarquia e entendimento
+        Responsividade do layout
+        Como é a navegação de seu projeto?
+        Recomendações
+            Material.io - grid
+
+    Tipografia
+        São os estilos das letras
+
+        Conceitos básicos
+            Hierarquia de fontes: defina a hierarquia entre os diferentes elementos e quais configurações de fonte utilizam. (fonte, tamanho, estilo, etc)
+
+            Tamanho de fonte
+                Será que diferentes dispositivos conseguem enxergar a fonte daquele texto
+                Fonte tão grande que as palavras não cabem no grid
+                Texte no contexto relacionados
+            
+            Legibilidade
+                Textos com serifa são melhor
+                Melhor para dispositivos móveis
+            
+            Leiturabilidade
+                Textos com serifa são melhor
+                Quão fácil é a leitura em textos longos
+
+            Tipos de fontes
+                Famílias tipográficas
+                Manuscritas
+                (Com serifa:
+                    Orientar melhor o olho para identificar esses caracteres)
+        
+        Recomendações para projetos
+            Utilize apenas uma ou duas familias tipográficas por projeto
+            Variedade de pesos são mais versateis** (bold, italic, etc)
+            Fontes que tenha suporte para acentos e adaptáveis para a língua portuguesa
+            Não use fontes clichês (comic sans ou papirus, por exemplo)
+            Use fontes substitutas: patrick hand e antic didone
+            Exemplos para uso: helvetica neue (fonte clássica) e roboto / Garamond e Lobster
+
+        Googles Fonts
+        My Fonts
+
+    Cores
+        Direcionar o olhar
+        Evocar uma sensação
+        Comunicar sem o uso necessário de palavras
+
+        Matiz:
+            Qual cor?
+
+        Saturação:
+            O quão vibrante (cor - cinza)      
+        
+        Luminosidade:
+            Do preto ao branco
+        
+        Círculo cromático
+            Cores monocromáticas
+            Cores análogas
+            Cores complementares (opostas)
+            Cores complementares divididas
+        
+        Paletas cromáticas
+        
+        Ferramentas
+            Adobe color wheel
+            Canva palette generator
+            Material.io
+    
+    Ícones
+        É um símbolo que se refere à algo no mundo real (metaforas)
+        
+        Grau de abstração
+            De acordo com o grau de abstração: O usuário consegue reconhecer o que você está tentando representar?
+        
+        Redução
+            Ícones que suportem a redução (linhas finas)
+        
+        Recomendações:
+            The noun project
+            Shutterstock
+            Material.io / icon
+        
+    
+    Imagens
+        Definição e tamanho
+            * Resolução alta
+
+        Tipos de corte e foco
+            Caso pequenas, evitar imagens detalhadas demais
+        
+        Imagens e formatos para web
+            (Save for web no Photoshop, por exemplo)
+            Cuidado com imagens grandes demais! (demora para carregar)
+
+        Defina o padrão das imagens
+
+        Recomendações:
+            Shutterstock
+            Pexels.com (gratuito)
+            Unsplash

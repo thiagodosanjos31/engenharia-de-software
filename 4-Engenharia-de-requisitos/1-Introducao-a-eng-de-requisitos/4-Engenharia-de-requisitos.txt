@@ -1,0 +1,9 @@
+    Engenharia de requisitos:
+        Conjunto de processos e atividades empregadas para descobrir, detalhar, documentar, gerenciar o conjunto de requisitos de um software.
+
+                  Elicitação, Análise                                Controle de mudanças
+        Projeto  Validação dos requisitos                  Avaliação de inconsistências, Análise de impacto, 
+                    Documentação                                      rastreabilidade
+               Desenvolvimento de requisitos      ||               Gerência de requisitos
+
+    Terminar os requisitos funcionais / não funcionais a nível de detalhe

@@ -1,0 +1,36 @@
+    Heurística:
+        Atalhos mentais com boas práticas de utilização
+
+    Vantagens:
+        Aplicação rápida
+        Precisão satisfatória
+        Em estágios iniciais com membros não reais
+    
+    Desvantagem
+        Maior chance de erros
+        Falta de envolvimento dos usuários finais
+
+    Pontos da heurísticas de nielsen:
+        1. Visibilidade do estado do sistema
+        2. Correspondência entre o sistema e o mundo real
+        3. Liberdade e controle para o usuário
+        4. Consistência e padrão
+        5. Prevenção de erro
+        6. Relembrar ao invés de memorizar
+        7. Flexibilidade e eficiência de uso
+        8. Projeto e estética minimalista
+        9. Ajude o usuário a reconhecer e se recuperar de erros
+        10. Ajuda e documentação
+    
+    Passo a passo:
+        Definir qual aspecto específico do produto será testado
+        Escolhas as heurísticas a serem testadas
+        Escolha e convide os especialistas para avaliação (entre 3 e 5)
+        Briefing/Contextualização dos avaliadores
+        Sessão 1: Familiaridade e exploração (até 2h e não menos que 30min)
+        Sessão 2: Avaliação e detalhamento 
+            Definir método de avaliação
+        Registro de problemas/observações
+            Video, áudio, escrita, etc
+        Discussão em grupo
+        Processamento e implementação das melhorias

@@ -1,0 +1,65 @@
+    Técnicas de elicitação
+        Brainstorm
+            Duas fases
+                Geração de ideias (fluída)
+                Consolidação (recortes e priorização)
+            
+            Geração de ideias em grupo
+                Min 2 e max 12
+            
+            Geração de ideias seguida de crítica
+                Evitar fazer na primeira fases
+            
+            Todos devem ter oportunidade de participar
+        
+        Entrevistas (Entrevistador "Ignorante - inteligente")
+            Participantes fornecem requisitos com base em suas experiências
+            Sucesso depende do planejamento e execução
+                Planejamento
+                Preparação de um roteiro
+                Estratégia de registro das respostas
+            Analista de Requisitos deve ter boa comunicação
+                Importante falar a língua do entrevistado
+            Notas devem ser tomadas
+            Entrevistador não deve assumir postura crítica (julgar)
+            Entrevistador não deve se preocupar em fazer perguntas aparentemente bobas ou sem sentido
+            Entrevistar todos os tipos de envolvidos:
+            Identificar cenários
+            Tentar descobrir a importância de cada requisito
+            Pergunte sobre quaisquer possíveis restrições
+            Conscientize entrevistados que os requisitos irão definir o sistema
+            Não julgue os requisitos dos entrevistados
+
+        JAD
+            Reuniões estruturadas que podem envolver:
+                Dev, Users, Patrocinador, Facilitador, Relator (que toma notas do que é discutido e decidido), Observadores
+            
+            Benefício: resolução antecipada de conflitos
+            Modo rápido de elicitar requisitos
+
+        Protótipos
+            Eu sei o que quero quando vejo
+            Pode utilizar protótipo descartável ou evolutivo
+            Problemas:
+                Devs podem acabar gastando muito tempo e esforço
+                Pode levar a discussão de detalhes
+            
+        Questionários
+            Questões abertas ou fechadas
+            Questionário online quando há muitos Participantes
+            Levantam muita informação com pouco tempo
+            Desvantagens:
+                Identificar requisitos que já conhece ou supõe
+                Não há feedback imediato
+            
+        Outras:
+            Tornar-se um aprendiz
+                Fazer o ofício do dominio para ter conhecimentos dos requisitos
+            
+            Documentos Existentes
+
+            Engenharia Reversas
+
+            Observação de produtos existentes
+
+

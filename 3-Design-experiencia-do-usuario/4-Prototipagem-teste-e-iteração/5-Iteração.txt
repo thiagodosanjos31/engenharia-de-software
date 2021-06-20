@@ -1,0 +1,14 @@
+    Iteração (conclusão)
+        Entender o que deu certo e errado, melhorando continuamente a nossa solução.
+        Passar pelo processo quantas vezes for necessário
+
+        Entender > Definir > Criar > Lançar
+        Entender a partir do último lançamento
+            Selecionar principais problemas
+                Gerar insights a partir do lançamento anterior
+                    Viabalização da nova versão de mercado
+                        ITERAR!
+
+        Valide o escopo!
+        Repita até ficar bom.
+        Um bom design não acaba quando uma iteração chega ao fim, mas sim quando temos uma solução que impacte as pessoas.

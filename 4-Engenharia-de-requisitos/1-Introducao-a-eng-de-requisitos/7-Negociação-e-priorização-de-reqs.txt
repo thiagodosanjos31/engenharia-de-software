@@ -1,0 +1,44 @@
+    Resolução de conflitos entre requisitos e pendências.
+        Tornar coerentes as viões dos diversos usuários e clientes
+        Equilíbrio entre necessidades dos usuários e restrições
+        Escopo: Equilíbrio entre funcionalidade, recursos e tempo
+    
+    Problemas na delimitação do escopo:
+        Requisitos não funcionais podem consumir grande parte do tempo e dos recursos de implementação
+        Recursos não são conhecidos desde o início do projeto
+        Acrescentar mais recursos humanos a um projeto atrasado, só vai torná-lo mais atrasado
+        Requisitos emergentes representam riscos para projetos em andamento, pois podem causar aumento de escopo
+    
+    Priorização é uma escolha consciente entre:
+        Funcionalidade
+        Recursos
+        Tempo
+        Risco
+        e outros critérios relevantes
+    
+    Requisitos:
+        Essencial: software é inaceitável sem esse requisito
+        Condicional: aumenta o valor do software mas não é essencial
+        Opcional: pode ou não ser implementado
+    
+    Classificação:
+        3: implementação perfeita
+        2: precisa funcionar mas nao de forma perfeita
+        1: 
+    
+    Modelo: MoSKoW
+    Modelo: Kano
+        Requisitos obrigatórios (básicos)
+        Necessidades (esperado)
+        Não esperados
+        Indiferentes
+    
+    Comparação por pares
+        Parte do princípio que os usuários conseguem comparar, dois a dois, quais são os requisitos mais importantes
+        Após as comparações, é possível determinar os requisitos mais importantes
+        Vantagens:
+            Técnica Simples
+        
+    Analogia com dinheiro
+        Consiste em fazer com que o fornecedor de requisitos "compre" cada um dos requisitos
+        O limite do crédito é 100.

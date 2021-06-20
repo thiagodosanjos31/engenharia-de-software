@@ -1,0 +1,30 @@
+    Como prototipar uma interface?
+        Protótipo é uma simulação em vida real de seu produto, serviço ou solução. (Testa alguma funcionalidade específica do seu produto)
+    
+    Por que?
+        Para responder perguntas de negócio ou usabilidade
+        A razão do protótipo é existir o teste e o feedback
+    
+    Faça testes!
+        Teste antes da implementação
+        Antecipar ciclos de aprendizado do nosso produto
+    
+    "Faça esboços de merda" / Protótipos de baixa fidelidade
+
+    Passo a passo
+        Defina qual aspecto específico do produto será prototipado
+        Mapeie as ações do usuário e as interação com o produto/interface
+        Levante as funcionalidades chave
+        Defina o ciclo de interação auto-contido PRINCIPAL
+        Monte as telas
+            Não precisa ser perfeccionista
+            Use ferramentas rápidas
+        Crie o protótipo interativo
+        Teste com usuários
+        Tome nota dos aprendizados e implemente as melhorias
+
+    Recomendações
+        Marvelapp
+        AdobeXD
+        Sketch
+        Papel e caneta

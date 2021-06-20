@@ -1,0 +1,40 @@
+    Baixa visão
+        Usar bons constrastes
+        Publicar toda informação diretamente em páginas HTML
+        Usar combinações de cores, formas e textos
+        Construir layout linear e lógico garantindo boa leitura em ampliações
+        
+    Leitores de tela
+        Descrever imagens e fornecer transcrições para vídeo
+        Construir um layout linear e lógico
+        Estrutura de código baseado em HTML5
+        Construir para uso apenas do teclados
+        Escrever links e títulos auto-descritivos
+
+    Deficiência física ou motora
+        Criar grandes áreas clicáveis
+        Espaçamento entre campos de formulários
+        Projetar para usar apenas teclado ou voz
+        Projetar para telas móveis e tocáveis em mente
+        Fornecer atalhos
+
+    Dislexia
+        Usar imagens e diagramas para acompanhar textos
+        Alinhar textos a esquerda e manter a constância de layout
+        Considere produzir materiais em outros formatos
+        Mantenha o conteúdo curto, simples e claro
+        Permitir que os usuários alterem o contraste entre plano de fundo e texto
+
+    Deficiencia auditiva
+        Escrever de forma simples (menos metáforas)
+        Usar legendas e/ou fornecer transcrições para vídeos
+        Construir layout simples e consistentes
+        Dividir o conteúdo com sub-títulos, imagens e vídeos
+        Permitir que o usuário escolha o seu melhor meio de comunicação
+
+    Espectro autista
+        Cores mais simples
+        Escreva de forma simples e objetiva
+        Usar frases e marcadores simples
+        Criar botões descritivos
+        Construir layouts simples e consistentes

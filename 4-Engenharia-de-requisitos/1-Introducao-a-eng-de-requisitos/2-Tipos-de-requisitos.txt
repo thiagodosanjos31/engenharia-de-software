@@ -1,0 +1,45 @@
+    Funcionais:
+        Os funcionais estão relacionados a ações que o sistema realiza, entregando resultados observáveis aos usuários.
+        (Ações que o sistema proporciona, sem levar em conta restrições físicas)
+    Não funcionais:
+        Não funcionais estão relacionados a restrições nestas funcionalidades ou no sistema como um todo.
+        (Condições que o sistema deve atender,
+        Qualidades específicas que o sistema deve cumprir)
+        Pode ser local ou global:
+            Local: afeta um requisito
+            Global: afeta o sistema como um todo
+        Ex:
+            A base deverá ser armazenada em MySQL
+            O Sistema deverá suportar dois idiomas: português e espanhol
+            O sistema deve ser capaz de se recuparar de uma falhar em até 1h
+
+        Tipos:
+            usabilidade: estética, consistência da interface, ajuda on-line sensível ao contexto
+            confiabilidade: frequência e severidade das falhas, previsibilidade, acurácia
+            desempenho: impõe condições aos requisitos funcionais, velocidade, frequência, thoughput, tempo de resposta, tempo de recuperação, faixa de recurso utilizando
+            Interface: protocolos...
+            Físico: material...
+
+
+    
+        O requisito nasce junto ao cliente e ao decorrer do tempo vai para a equipe de produtos e se torna um requisito de sistema
+
+
+        Requisito de cliente:
+            Expressam os resultados desejados para superar os problemas relacionados
+            Descrevem problema enfrentado pelo usuário
+            São documentados em:
+                proposta técnica
+                documento de visão
+                lista de funcionalidades
+            Linguagem muito próxima ao usuário
+        
+        De sistema:
+            Descrevem o comportamento de um sistema de computação apresentado como solução para o problema do cliente
+            Uma escolha dentro do domínio delimitado
+            Documentado em:
+                Documentos detalhados de requisitos
+                Casos de uso
+                Diagramas de estado e diagramas de sequência
+                Protótipos
+                Mapas de navegação

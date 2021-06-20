@@ -1,0 +1,55 @@
+    Processo de projeto de uma interface
+        Estrutura de Gahet
+            Impõe uma linearidade dentro do processo
+                Superfície (Design sensorial)
+                Esqueleto (Design de interface /  Design de navegação)
+                Estrutura (Design de interação / Arquitetura)
+                Escopo (Especificações funcionais / Requerimentos de conteúdo)
+                Estratégia (Necessidades do usuários / Objetivos do produto)
+                (Debaixo para cima)
+            
+            Cada etapa define os próximos passos das demais tarefas
+        
+        Elementos da UX/UI
+            Método de trabalho mais conciso e eficiente
+            É normal/desejável que as etapas se sobreponham
+        
+        Estratégia
+            > Quais são objetivos
+            > Característica da sua marca (identidade da marca)
+            > Métricas de sucesso (visitas por mês, por exemplo)
+            > O que a solução resolve (segmentação de usuários)
+            > Define papéis e processos do desenvolvimento do produto
+        
+        Escopo
+            > Funcionalidades e conteúdo / Requerimentos / Especificações funcionais / Requerimentos de conteúdo / Priorização de Requerimentos
+            > Fazer com base na estratégia 
+            > Para quando?
+            > Entender as etapas pela qual o produto deve passar                    
+            > Dica: reduza o escopo
+            > Dica 2: Foque no que gera valor
+        
+        Estrutura
+            > Arquitetura / Design de interação
+            > Tipos de estrutura: hierarquica, linear, matricial ou orgâniza
+            > Definição da estrutura, design da interação, modelos conceituais, tratamento de erros, arq da informação, estrutura de conteúdo, princípios de organização,
+            linguagem e metadados, papéis de time e processos
+            > Metáforas de espaço
+        
+        Esqueleto
+            > Design de interface / Design de navegação / Design da informação
+            > Começamos a entender como é a cara do app
+            > Legal fazer vários desenhos de layout na mão 
+            > WireFrames
+            > Convenção e metáfora (Carrinho de compra, por exemplo)
+        
+        Superfície
+            > Definir a parte visual/sensorial (Cores, tipografia, marca)
+                > Tratamento dos sentidos
+                > Gestalt (composição e olhar) : ver o que gera mais valor para o usuário primeiro
+                > Contraste e uniformidade
+                > Consistência de linguagem interna e externa
+                > tipografia
+                > design de composição
+                > guia de estilo
+                > Prototipe e teste (Aplicativo para isso: Marvel)

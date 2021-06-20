@@ -1,0 +1,14 @@
+    Importância dos requisitos:
+        Erros em requisitos:
+            Projetos com atraso e com custos além do orçamento
+            Clientes e usuários não ficarão satisfeitos
+            Abandono do sistema
+            Reconstrução do sistema
+            Pode fica inviável evoluir
+
+        Pontos positivos:
+            Nos dão a base para o planejamento do Projetos
+            Essenciais para estudo de solicitações de mudança
+            Permitem a gerência de riscos desde os estágios iniciais
+            São a base para os testes de aceitação
+            Gerenciamento de contratos

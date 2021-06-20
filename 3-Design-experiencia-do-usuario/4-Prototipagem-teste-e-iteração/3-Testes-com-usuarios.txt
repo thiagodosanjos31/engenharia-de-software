@@ -1,0 +1,34 @@
+    Forma principal de como entender o que está funcionando e o que não está no produto
+        Testar as soluções junto a um ou mais usuários buscando reconhecer padrões de uso, falhas de projeto e insights para novas melhorias
+
+    Vantagens:
+        Maior precisão
+        Obtenção de insights mais relevantes
+        Quebra de pressupostos da equipe de desenvolvimento
+        Evita o viés de confirmação
+        Criar usuários "fidelizados"
+    
+    Desvantagens:
+        Maior tempo necessário para realização
+        Maior custo de realização
+    
+    FAÇA TESTE COM O USUÁRIO SEMPRE QUE POSSÍVEL
+
+    Tipos de teste
+        Teste de usabilidade
+        Teste AB
+        Observação direta
+    
+    Passo a passo:
+        Qual aspecto do produto que vai ser testado
+        Definir perfil dos usuários que vão ser convidados para o teste
+            Priorize "Early adopters"
+        Definir situação de uso e teste da solução
+        Realização do teste pelo usuário
+        Registro do teste (gravação em vídeo, usar o TCLE)
+        Processa o teste, com insights e pontos de melhorias
+        Implementa as melhorias
+
+    Recomendações
+        Hotjar
+        Google Analytics

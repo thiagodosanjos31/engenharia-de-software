@@ -1,0 +1,27 @@
+    É uma abordagem de desenvolvimento web onde temos mudanças dinâmicas relativos aos tamanhos dos dispositivos
+
+    Projetar para dispositivos ou Projetar para telas / funcionalidades
+        Como os dispositivos caem em defasagem, é melhor desenvolver para telas
+    
+    * Devem ser mais adaptáveis para o futuro também.
+
+    Paradigmas de uso, no desktop, por ex:
+        Tela maior
+        Maior precisão (mouse over, por exemplo)
+        Velocidade de escrita com teclado
+        Postura confortável
+        Por longo período de tempos
+    
+    Mobile:
+        Tela menor
+        Toque do dedo
+        Uso de gestos (swipe, zoom in, zoom out)
+        Teclado pequeno (maior chance de erro)
+        Qualquer Postura
+        Mais curto
+        Mais acessos por dia
+    
+    * Tendência de aumento de uso de mobile (via pesquisa CISCO)
+    * (Fonte: CETIC 2018) 97% dos usuários brasileiros usam internet através do celular
+
+    

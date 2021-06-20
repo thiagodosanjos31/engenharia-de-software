@@ -1,0 +1,15 @@
+    Requisitos de software
+        Uma condição ou capacidade necessitada por um usuário para resolver um problema ou atingir um objetivo
+        Uma condição ou capacidade que deve ser cumprida ou possuída por um sistema ou componente do sistema para satisfazer um contrato, padrão, especificação ou outro documento formal imposto
+        A representação documental de condição ou capacidade    
+        Características que definem os critérios de aceitação de um produto
+        Propriedade que um software deve exibir para resolver um problema do mundo real
+        Um requisito precisa ser não ambíguo, testavel, mensurável e necessário para a aceitação do produto ou processo por consumidores
+    
+    Aspectos relevantes
+        Envolvem questões na fronteira do domínio
+        Problema existe no mundo real, não no software
+        Requisitos descrevem os efeitos do sistema no ambiente, não o sistema em si
+        Tudo aquilo ligado ao ambiente
+        Onde uma solução de software executa
+    

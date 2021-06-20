@@ -1,0 +1,79 @@
+    Elicitação:
+        Busca proativa (Levantar, coletar, capturar) da obtenção dos requisitos a partir das fontes, considerando as necessidades, expectativas e restrições impostas pelo cliente.
+
+        Evitar requisitos implícitos!
+
+        Passos:
+            Definir as fontes de obtenção dos requisitos
+            Definir a forma de elicitação
+            Levantar os requisitos
+
+        Fontes comuns:
+            Usuário e cliente
+            Documentos
+            Sistemas existentes
+            Problemas e sugestões de mudança de sistemas existentes
+            Estudos
+            Questionários
+
+        Informações das fontes:
+            Nome
+            Função
+            Dados pessoais e de contratos
+            Disponibilidade ao longo do projeto (quando e onde)
+            Relevância do stakeholder
+            Área e nível de experiência e conhecimento
+            Objetivos e interesses em relação ao projeto
+        
+            Devem ser documentados.
+        
+        Fontes de requisitos não corretamente identificados:
+            Repercussões negativas para o projeto
+            Requisitos não identificados
+            Solicitações de mudança posteriores
+        
+        O que levantar?
+            Contexto onde a solução existe
+            Objetivos do sistema
+            Papéis que utilizam o sistema
+            Requisitos funcionais
+            Requisitos não funcionais
+        
+        Como descrever os requisitos?
+            Não precisa detalhar nesse momento.
+            Apenas identificar:
+                O sistema deve/ira + verbo
+                Ex:
+                    O sistema deve permitir ao Gerente emitir relatório de pedidos pendentes
+                O sistema deve + verbo + quando + evento
+
+            Para requisitos não funcionais:
+                O sistema deve ser capaz de + ação + em menos de + desempenho
+        
+        Evite longos textos.
+        Evite cláusulas de exclusão
+        Evite escrever mais de um requisito por sentença
+        Evite especulação
+        Evite palavras vagas
+        Evite termos vagos
+        Evite ser extremamente otimista e agradável
+
+        Propriedades de um bom requisito:
+            Correto
+            Completo
+            Consistente
+            Testável
+            Não ambíguo
+            Realista
+            Atômico
+            Não redundante
+        
+        Saída da elicitação de requisitos:
+            Lista de requisitos / Documento de visão
+            Requisitos descritos de acordo com linguagem dos envolvidos
+            Ainda não foram detalhados
+            Aspectos relevantes para realizar ou refinar o planejamento do projeto.
+            
+        Documento de visão
+            descrição geral do problema sendo resolvido 
+            visão geral do produto

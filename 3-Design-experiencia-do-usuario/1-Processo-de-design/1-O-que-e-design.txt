@@ -1,0 +1,65 @@
+    O que é design?
+        Definição reducionista: 
+            Design como estética (carro, layout de app)
+        (dar significado do latim)
+        (projetar em inglês - verbo)
+        Design é um processo estratégico de resolução de problemas que impulsiona a inovação.
+            Desing como foco no usuário
+                Entender as pessoas e resolver os problemas delas
+            Design como processo
+
+        "Wicked Problems in Design Thinking" (Livro)
+
+        Tipos:
+        Design Gráfico
+        Design de produto
+        Design de ambientes
+        Design de Serviços
+        Design Thinking (forma de pensar do design)
+        Design como estratégia em negócios digitais
+
+    Por que Design UX?
+        1.Não existe produto sem experiencia
+        2.Competitividade
+        3.Aumento da exigência do consumidor
+        4.Não perder tempo com soluções técnicas complexas que não agregam valor ao usuário
+
+        Experiência do usuário:
+            Abrange todos os aspectos da interação do usuário com a empresa, seus serviços e seus produtos.
+            Exige uma abordagem holística:
+                Nenhum produto é uma ilha.
+            Experiência do usuário é ampla: dentro e fora da empresa
+
+            O design da experiência do usuário é o processo usado para determinar como será a experiência quando um usuário interage com seu produto.
+            
+    Processo de design:
+        Criar, definir, iterar e lançar
+            O duplo diamante
+                 / entender | definir \ / criar | lançar \
+
+            Entender: saia do prédio
+            Definir: escopo
+            Criar: máximo de ideias possíveis (alguma prototipação)
+            Lançar: viabilizar
+            > Iterar <
+
+    Pilares: Empatia, Colaboração e Experimentação
+        Empatia:
+            Foco no usuario (Empatia x Simpatia) = + Resultado de negócio
+        Colaboração:
+            Outros desenvolvedores
+            Profissionais de outra área (desing, administrativo)
+            Usuários
+            Informativo / Consultivo / Co-criativo / Participativo
+            Diversidade / Diálogo / Engajamento e Pertencimento
+            Pesquisas Colaborativas / Workshops
+        Experimentação:
+            Aprender mais em menos tempo
+            Mundo real dá mais informações
+            Perceber erros antes que seja tarde demais
+            "Teste ao longo de todo o processo!"
+
+
+
+
+

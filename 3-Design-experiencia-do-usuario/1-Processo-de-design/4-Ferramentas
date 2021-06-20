@@ -1,0 +1,59 @@
+
+    Ferramentas qualitativas de pesquisa
+        Entrevistas com usuários
+            Boas práticas:
+                Monte um roteiro
+                Não intervenção
+                Casual
+                Não há resposta errada
+                Conduzir no local de uso do aplicativo / site / produto
+                5 por ques
+            
+        Grupo focal
+            (Entrevista com muitas pessoas ao mesmo tempo)
+            Pergunte a opinião dos mais tímidos
+            Casual
+        
+        Card sorting
+            (com o grupo focal, você dá varios cards para essas pessoas organizarem a proximidade das coisas)
+        
+        Shadowing
+            (Fique atrás do usuário que está utilizando a interface)
+        
+    Ferramentas quantitativas
+        Alcançar números maiores de usuários
+        Dados mais precisos (menos comportamentais)        
+            Surveys
+                Boas praticas:
+                    Objetivo de pesquisa claro
+                    Até 10 perguntas
+                    Perguntar "na visão e linguagem" do usuário
+                    Diversificar Coleta
+                    TCLE (Termo de consentimento livre esclarecido)
+            
+            Googles Analytics
+            Banco de dados
+            Pesquisa desktop (google acadêmico)
+
+    
+    Ferramenta Persona
+        Ficha de personagem 
+            Nome, Idade, Ocupação
+            O que a motiva
+            O que a frustra
+            Hobbies, História e outros detalhes
+            Foto
+    
+    Ferramenta do Mapa da proposta de valor
+        > Representa o usuário: ganhos (resultados que o usuário buscam alcançar) e dores / tarefas do usuários (lado direito)
+        > Representa o produto e serviço => geradores de ganhos e analgésicos (aliviam as dores dos usuários)
+        > Síntese da proposta de valor
+
+    Ferramento da jornada do usuário
+        (Como pode ser o seu serviço ou serviço do seu produto digital)
+        Service BluePrint
+            3. Evidências digitais: quais evidências são geradas para o usuário sobre aquele benefício que está sendo gerado
+            1. Ações do usuários: desde antes (approaching) da interação até depois (pós-venda)
+            2. Frente / Interface: como a interface se comporta para viabilizar as ações do usuários
+            4. Bastidores: tudo que acontece mas o usuário não vê (código, banco de dados, resolução de problemas)
+            5. Suporte, sistemas e interações externas: tudo que a empresa precisa interagir para entregar o benefício para o usuário
