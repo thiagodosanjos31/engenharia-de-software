@@ -1,0 +1,7 @@
+    Seguem o modelo incremental e iterativo
+        (Incrementos muito pequenos)
+        Cada versão nova será criada e disponibilizada para o sistema, a cada duas ou três semanas.
+        Os clientes são envolvidos no processo para fornecer feedback rápido sobre a evolução dos requisitos.
+        Minimiza-se a documentação pois se utiliza mais a comunicação informal do que reuniões formais com documentos escritos.
+    
+    Extreme Programming

@@ -1,0 +1,26 @@
+    Técnicas de projeto arquitetural
+        Abstração
+            Nível de solução dos problemas sem se concentrar em detalhes
+        Ocultação de informações
+            Cada módulo deve ter informações que interessam somente a si
+        Modularização
+            Característica dos sistemas que são separados em componentes ou módulos
+                Facilita o entendimento
+                Facilita o desenvolvimento
+                Paraleliza o desenvolvimento diminuindo o tempo de implementação do sistema
+                Promove a flexibilidade e reutilização
+
+        Separação
+            (MVC) Controller / Model / View
+        
+        Acoplamento e acoesão
+            É a dependência entre os módulos do sistema
+            Muitas dependências tornam os sistemas de difícil compreensão
+        
+        Separação de políticas e implementações
+            Boa prática para separar elementos relacionados ao negócio de elementos relacionados ao desenvolvimento
+            Facilita o reuso e a utililização de algoritmos
+
+        Separação de interfaces e implementação
+            Devemos sempre definir a interface dos módulos escrevendo contratos para definir a funcionalidade dos módulos
+            Deixando por conta das implementações de como elas devem chegar aos resultados desejados

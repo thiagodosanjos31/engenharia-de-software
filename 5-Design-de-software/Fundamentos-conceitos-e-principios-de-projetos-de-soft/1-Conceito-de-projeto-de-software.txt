@@ -1,0 +1,27 @@
+    Projeto de software
+        modelagem funcional e arquitetural da aplicação de software
+        o projeto da interação do usuário com a aplicação
+        projeto da interface com outros sistemas
+        aplicação em questão e o projeto da arquitetura e persistência da informação
+    
+    O foco do design de projeto é descrever detalhes da solução do projeto.
+
+        Funcionalidade de uma aplicação:
+            Projeto estrutural:
+                Diagrama de classes ou diagrama de componentes
+                Ajuda a projetar a estrutura do sistema, suas classes, atributos ou componentes arquiteturais
+
+            Projeto comportamental:
+                Digrama de interação ou diagrama de transição de estados
+                Ajuda a projetar a lógica, o comportamento do código, ou o corpo do método
+            
+            Projeto funcional:
+                Projeto estrutural + Projeto comportamental
+            
+            Requisitos Funcionais impactam:
+                O projeto da interação do usuário com a aplicação e a interface com outros sistemas
+            
+            Requisitos não funcionais impactam:
+                O projeto arquitetural do software
+                
+

@@ -1,0 +1,67 @@
+    Arquitetura no RUP (rest unified process)
+        Atacas os riscos principais de forma rápida e contínua
+            Primeiro os problemas de maior risco ao sucesso do projeto
+            Modelo iterativo trata mais no início do que o cascata            
+        Concentrar-se em produzir software executável
+        Acomodar mudanças no projeto
+        Definir a arquitetura o mais cedo possível
+            Vantagens
+                Refinar estimativas
+                Familiarizar-se com as tecnologias utilizadas
+                Atacar principais riscos
+        Construir o sistema com componentes
+            Separam a interface da implementação
+            Possibilitam a reutilização de partes 
+            Reduzem o impacto das mudanças
+    
+    Fases do RUP   
+        Concepção
+            Entender escopo e construi casos de negócio
+                Os riscos de negócios estão mitigados? O projeto é viável? =>
+        Elaboração
+                Os riscos técnicos estão mitigados?
+        Construção
+                Os riscos de logística estão mitigados? Está utilizável?
+        Transição
+                O sistema está completo e robusto, pronto para ser entregue?
+
+
+    Fase de Elaboração do RUP
+        Marco de arquitetura do ciclo de vida
+        Uma ou mais iterações
+        Primeira iteração:
+            Projetar, implementar e testar alguns cenários críticos
+        Segunda iteração:
+            Consertar problemas encontrados
+            Implementar concorrência e distribuição
+            Detalhar os casos de uso ainda não detalhados
+            Estabilizar
+    
+    Projetar, implementar e validar a arquitetura
+        Projetar:
+            Componentes e interfaces
+            Decidir se cada componente será desenvolvido, adaptado, reutilizado e comprado
+            Interações entre componentes
+        
+        Implementar:
+            Toda arquitetura deve ser executável => protótipo arquitetural
+                Projetar casos de uso críticos
+                Consolidar e "empacotar" classes
+                Garantir a cobertura arquitetural
+                Projetar o bd
+                Identificar padrões arquiteturar
+                Implementar cenários críticos
+            
+        Protótipo arquitetural:
+            Definição baseada nos casos de negócios mais críticos
+        
+        Validar:
+            Deve exibir as caracteristicas solicitadas
+            Deve evidenciar riscos técnicos
+            Alguns riscos são solucionados
+        
+        Elaboração:
+            Informações mais precisas:
+                Reqs detalhados
+                Arquitetura executável
+                Riscos mitigados

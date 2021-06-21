@@ -1,0 +1,92 @@
+    Elementos ao se projetar a arquitetura
+        Objetivos:
+            Reqs funcionais e nao funcionais
+        
+        Restrições:
+            Contexto de uma arquitetura
+        
+        Alternativas:
+            Diferentes possibilidades de soluções
+
+        Representações:
+            Diferentes forma de representar a solução
+        
+        Soluções:
+            Documentação da solução a ser apresentada
+        
+        Processo de projeto arquitetural:
+            Diagram de requisitos
+                Cliente e arquiteto elicitam reqs funcionais e não funcionais
+                Divergência: arquiteto busca alternativas para atender as soluções
+                Convergência: ver qual das solução melhor se adequa
+                implementação
+            
+            > Analise arquitetural: reqs funcionais e nao funcionais são a entrada
+            > Síntese arquitetural: diversas soluções e escolher uma
+            > Avaliação arquitetural: será avaliada
+                Satisfaz os reqs funcionais e nao funcionais
+                Pode ser entendida pelos implementadores
+            > Arquitetura validada
+            
+    Alternativas arquiteturais
+        Contexto: rede social virtual
+            Uma rede onde os usuários encontrem seus amigos, enviam solicitação de amizade e depois de aceita passam a compartilhas fotos, videos e mensagens.
+        
+        > Primeira alternativa:
+            Centralizada:
+                Arq cliente/servidor
+                Todos os clientes se conectam a um servidor onde os dados dos perfis de usuários estão centralizados
+        
+        > Segunda alternativa:
+            Descentralizada:
+                Arquitetura ponto a ponto
+                    Todos os pontos possuem os dados dos seus amigos armazenados localmente de forma replicada
+                
+            Quando um usuário acessa a rede e faz autenticação, o sistema encontra outros pontos que também estão rodando o mesmo software da rede social e busca as informações (consumidor).
+            Ao mesmo tempo este computador (ponto) transmite informações atualizadas para outros computadores que estão na rede (fornecedor).
+            COMO SE FOSSE CLIENTE E SERVIDOR!
+            Criptografar as informações.
+        
+        Análise entre as abordagens:
+            Centralizada:
+                Depende da capacidade de atendimento de requisições ismultâneas: servidor é o gargalo
+                Disponibilidade dos dados depende da disponibilidade do servidor
+                Servidor é um hardware de custo elevado
+                Dados sempre atualizados
+                Não precisa lidar com a redundância dos dados, dados estão sempre consistentes
+
+            Descentralizada:
+                Todos os pontos funcionam como fornecedores: não existe um único gargalo
+                Disponibilidade dos dados depende do número de usuários na rede em determinado momento
+                Todas as máquinas são comuns, de custo padrão
+                Dados podem estar desatualizados
+                Redundância dos dados precisa ser tratada para aumentar a consistência dos dados
+            
+    Dívida técnica:
+        Determinar requisitos de qualidade
+        Selecionar requisitos significantes
+        Justificar decisões arquiteturais
+        Documentar elementos arquitetuais
+        Definir a arquitetura de forma iterativa e incremental
+        Concentrar-se nas interfaces
+        Prototipar e testar a arquitetura
+        A perfeição é inimiga do razoavelmente bom
+
+        O que evitar?
+            Rigidez
+            Fragilidade
+            Imobilidade
+            Viscosidade (fazer as coisas corretas é mais difícil do que fazer as coisas erradas)
+            Complexidade desnecessária
+            Repetição desnecessária
+            Opacidade
+        
+            Dívida que se assume ao escolher um design ou abordagem fácil no curto prazo com impacto negativo no longo prazo.
+            "É similar à divida financeira. Assim como a dívida financeira, a dívida téncica exige o pagamento de juros."
+        
+        Classificações:
+            Irresponsável e proposital
+            Prudente e proposital
+            Irresponsável e sem querer
+            Prudente e sem querer
+            
