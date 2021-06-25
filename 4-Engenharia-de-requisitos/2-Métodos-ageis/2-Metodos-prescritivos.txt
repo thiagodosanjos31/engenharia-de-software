@@ -1,0 +1,20 @@
+Métodos prescritivos (tradicionais) x ágeis
+    prescritivos: previsibilidade
+        Tenta-se levantar todos os requisitos antes de dar inicio ao processo de desenvolvimento.
+        Após levantados os requisitos, é feito um planajemanto para que as mudanças possam ser controladas durante o processo.
+        Constante: Funcionalidades
+        Demora para entregar.
+        
+    ágeis: adaptabilidade
+        Buscam levantar aos poucos os requisitos e o planejamento é contínuo. Há adaptação às mudanças.
+        Enfatizam os aspectos humanos do desenvolvimento de software.
+        Não são centrados nos artefatos
+        Optar por uma documentação apropriada para evitar redundâncias e excessos.
+        Constante: Preço e Valor
+        Faz entregar menores mais cedo.
+        Pessoas capacitadas e com experiência são fator chave para metodologias ágeis.
+        Comprometimento e disponibilidade do cliente.
+    
+    Conclusão:
+        Não existe metodologia boa ou ruim.
+        Importante conhecer a organização para melhor selecionar metodologia mais adequada.

@@ -1,0 +1,38 @@
+    Extreme Programming
+        Leva as melhores práticas ao "extremo"
+        Enfatiza colaboração, criação de software cedo e rápida, praticas de desenvolvimento.
+        Fundamentada em 4 valores básicas:
+            Comunicação:
+                Comunicação é promovida através do pair programming e reuniões de pé
+                Envolvimento com os usuários através da escrita de testes de aceitação
+            Feedback:
+                Estimativas de tempo
+                Ciclo de desenvolvimento rápido
+                TDD
+                Chance de ver e operar um sistema parcial
+                Integração contínua
+            Coragem:
+                Correções arquiteturais
+                Ser transparente
+                Não descartar práticas essenciais
+                Refatorar código (simplificar)
+            Simplicidade
+                Uso de cartões de papel para escrita breve de Funcionalidades
+        
+        Prática:
+            Programação em pares
+                Observador realiza uma verificação em tempo real
+            Propriedade coletiva do código
+                Qualquer um pode alterar ou melhorar qualquer pedaço do código
+                Toda equipe responsável por todo o código
+                Agiliza o processo
+            Semana de 40 horas
+                Horas extras são um sinal de problemas sérios no projeto
+                Não faça horas extras por mais de uma semana
+                Não leva a desenvolvedores felizes e criativos
+            Cliente residente
+                Deve haver um cliente disponível para responder às questões dos desenvolvedores e estabelecer prioridades de baixo nível
+            Integração contínua
+                O código é integrado e testado no mínimo diariamente
+            
+

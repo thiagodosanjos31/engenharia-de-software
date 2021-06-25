@@ -1,0 +1,31 @@
+    Transição para adoção de métodos ágeis:
+        Treinamento
+        Mentoria
+        Gerenciamento comprar a ideia
+        Time comprar a ideia
+        Pessoas certar e emponderamento do time
+        Reuniões
+
+    Práticas adotadas:
+        CI
+        Planning
+        Daily
+        Unit testing
+        Refactoring
+        Automated Build
+        TDD
+        Burndown charts
+    
+    Objetivos:
+        Produzir software funcionando a cada fase
+        Feedback imediato
+        Fazer o mais simples sempre
+        Discutir em grupo as entregas do projeto
+    
+    Fatores de fracasso:
+        Falta de experiência
+        Pressão externa para seguir métodos tradicionais
+        Filosofia da empresa ou cultura que vai contra os valores ágeis
+        Treinamento insuficiente
+        Falta de apoio gerenciamento
+        Falta de interesse da equipe

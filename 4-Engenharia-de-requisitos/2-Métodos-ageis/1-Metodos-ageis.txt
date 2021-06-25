@@ -1,0 +1,33 @@
+    Introdução aos métodos ágeis:
+        Modelagem Ágil: é uma atitude, não um processo prescritivo de software.
+        Compreende um conjunto de valores e princípios.
+        Passível de mudança.        
+
+        Modelo prescritivo: parte de ideias de experiências bem sucedidas anteriormente
+
+        Ágil
+            Princípio da incerteza: inerente e inevitável em projetos e processos de software
+
+            Projetos de software geralmente possuem muitas solicitações de mudança
+
+        > Manifesto Ágil
+            Formado em 2001 > Revolucionário
+            4 grandes princípios:
+                Individuos e interação entre eles mais que processos e ferramentas
+                Software em funcionamento mais que documentação abrangente
+                Colaboração com o cliente mais que negociação de contratos
+                Responder a mudanças mais que seguir um plano
+            
+            Principios:
+                Prioridade é satisfazer ao cliente através de entregasa contínuas e frequentes
+                Receber bem as mudanças de requisitos, mesmo em uma fase avançado do projeto
+                Entregas com frequência, sempre na menor escala de tempo
+                Equipes de negócio e de dev trabalhar juntas diariamente
+                Manter uma equipe motivada fornecendo ambiente, apoio e confiança necessários
+                A maneira mais eficiente da informação circular através de uma conversa cara-a-cara
+                Ter o sistema funcionando é a melhor medida de progresso
+                Processos ágeis promovem o desenvolvimento sustentável
+                Atenção contínua a excelencia técnica
+                Simplicidade é essencial
+                As melhores arquiteturas, requisitos e projetos provêm de equipes organizadas
+                Em intervalos regulares, a equipe deve refletir como se tornar mais eficaz

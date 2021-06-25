@@ -5,3 +5,97 @@
         Minimiza-se a documentação pois se utiliza mais a comunicação informal do que reuniões formais com documentos escritos.
     
     Extreme Programming
+        Desenvolvido por Kent Beck (líderes do manifesto ágil)
+        Uma metodologia light cujos requisitos são vagos ou estão em constante mudança.
+        Projeto evolucionário e incremental.
+        É IMPORTANTE A **REFATORAÇÃO** NO XP
+
+        Práticas do XP
+            Testes de usuário / Entregas curtas / Jogos de planejamento / Equipe inteira
+            Propriedade Coletiva / Programação em par / Integração Contínua / Metáfora / Ritmo Sustentável / Padronização de código
+            Desenvolvimento orientado a teste / Design Simples / Refatoração
+        
+        Ciclos:
+            Pair Programming: Segundo
+            Testes Unitários: Minutos
+            Pair Negotiation: Horas
+            Stand up Meeting: Um dia
+            Teste de aceitação: Dias
+            Iteration Plan: Semanas
+            Release Plan: Meses
+        
+        Ciclo interno do XP
+            Planejamento =>    Projeto     =>      Codificação      =>      Teste
+                plano de     cartões CRC       Programação em dupla      Teste de unidades
+                iteração                                                    integração contínua
+            
+        Resumo:
+            Keep it simple!
+            Cartões CRC: classe - responsabilidade - colaboração
+            Protótipo rápido
+            Metáfora para capturar o design da solução
+            Refatorar, refatorar e refatorar
+    
+    Scrum
+        Aborgadem empírica
+
+        Planejamento Geral e projeto de Arquitetura
+            => Sprint: Avaliar / Selecionar / Desenvolver / Revisar
+        Encerramento do projeto
+
+        Características:
+            Equipes pequenas e multidisciplinares
+            Versões incrementais
+            Com iterações curtas
+            Equipe auto-organizadas com liderança diluída
+            Facilitador: Scrum Master        
+            Trabalho organizado a partir do backlog do produto.
+                Lista atualizada e priorizada do que ainda precisa ser feito
+            Comunicação e cooperação entre as equipes se intensificam para produzir resultados.
+        
+        Papéis:
+            PO
+                Responsável pelo valor de negócio do produto
+                Representante do cliente junto da equipe
+                Controla, gerencia e prioriza o backlog do produto                
+            Scrum Master (facilitador)
+                Toma iniciativas para melhorar o trabalho, resolve os impedimentos
+                Não se envolve com o trabalho técnico
+            Team Development
+                Auto-organizada
+                Responsável por entregar valor por meio de software com qualidade
+        
+        Artefatos e cerimônias
+            Artefatos   
+                Backlog do produto
+                    Lista de requisitos (história de usuário)
+                        Quem (precisa)? O que (precisa)? Por quê (precisa)? 
+                Incremento do produto
+                    Ao final da Sprint, o time de scrum terá produzido um incremento pronto no produto, que significa valor para o cliente
+                Backlog da Sprint
+                    Priorização do backlog do produto por parte do PO
+                
+            cerimônias
+                Planejamento da Sprint
+                    Definir o que vai ter na sprint
+                    O que será entregue e como
+                Daily
+                    O que fez nas ultimas 24 e o que vai fazer e indica impedimentos
+                    Stand up meeting
+                Review
+                    Se tudo o que foi solicitado está pronto e vai ser entregue
+                Retrospectiva
+                    Realinhar o processo (ver o que pode melhorar)
+
+        Atividade de design dentro do scrum
+            Se preocupa mais em fornecer um framework de gerenciamento do projeto, do desenvolvimento, colocando as restrições de tempo por ciclos
+            Agnóstico em termos de arquitetura ou design detalhado
+
+            É importante o PAPEL DA REFATORAÇÃO
+                > Reduzir divida técnica
+                > Aumentar coesão
+                > Diminuir Acoplamentar
+                > Aumentar legibilidade
+            
+
+        
