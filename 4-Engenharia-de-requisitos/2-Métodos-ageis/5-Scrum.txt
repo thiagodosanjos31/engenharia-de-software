@@ -1,0 +1,58 @@
+    Principios básicos: Scrum
+        Origem do nome vem do jogo de Rugby
+        Um Sprint tem duração aproximada de trinta dias
+        Durante uma Sprint, a equipe Scrum se organiza para produzir um incremento do produto.
+        O trabalho conduzido dentro de um Sprint é adaptado ao problema em mãos e é definido e, frequentemente, modificado em tempo real pela esquipe Scrum.
+        Equipes pequenas de modo a maximizar a comunicação
+        O processo precisa ser adaptável e produz frequentes incrementos de software que podem ser inspecionados.
+        O desenvolvimento é dividido em partições claras, de baixo acoplamento ou em pacotes.
+        Testes e documentação constantes são realizados à medida que o produto é construído.
+
+        Pre-staging Spring
+        Visão e Product Backlog
+
+        Sprint de desenvolvimento
+        Sprint Backlog -> Daily Scrum -> incremento
+
+        Wrapper Sprint
+        Produto
+        -> Release
+
+
+    Scrum: Papeis, cerimônias e artefatos
+        PO:
+            Define os itens que compões a "Lista de pendências" e define as prioridades
+            Define os objetivos para o próximo Sprint
+        
+        Scrum master:
+            Gerencia o processo do Scrum (Guia)
+            Implementa o Scrum de modo que esteja adequado à cultura da organização e que todos sigam as regras e práticas do Scrum
+        
+        Scrum team:
+            É a equipe de desenvolvimento
+            Não existe necessariamente uma divisão funcional através de papéis como: dev, designer, tester ou arquiteto
+            Não há "donos" de assuntos
+
+    Cerimonias:
+        Reunião de planejamento (planning):
+            Ver o que é mais prioritário (PO)
+            Seleciona as atividades que ela será capaz de implementar durante o Sprint
+        Daily:
+            Breve (reunião de 15 minutos de pé)
+            O Objetvio é disseminar conhecimento sobre o que foi feito no dia anterior, identificar impedimentos e priorizar o trabalho do dia que se inicia.
+            Valida os objetivos da iteração e a finalização das histórias
+        Retrospectiva:
+            Lições aprendidas
+    
+    Artefatos:
+        Product backlog:
+            Lista priorizada de requisitos ou características do projeto que fornecem valor de negócio para o cliente
+        
+        Sprint Backlog:
+            Lista das histórias mais relevantes quebrada em tarefas com suas respectivas estimativas de duração do presente momento
+        
+        Lista de impedimentos:
+            Lista que contém os impedimentos para o time alcançar os objetivos
+        
+        Relatórios:
+            Burndown
