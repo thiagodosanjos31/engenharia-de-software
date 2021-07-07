@@ -1,0 +1,24 @@
+    Problemas:
+        Histórias pequenas demais
+            Problemas de estimativa
+        
+        Histórias dependentes
+            Podem causar dificuldade no planejamento das iterações
+            A inclusão de uma história em uma iteração incluir outra relacionada
+        
+        Goldplating
+            Dar requisitos para o usuário que não foram solicitados
+        
+        Detalhes demais
+            Muito tempo é gasto com detalhes antes da implementação da história
+        
+        Iniciar desenvolvimento sem visão
+            É um erro iniciar o desenvolvimento sem nenhuma visão do produto
+            Deve haver uma visão disponível para enunciar claramente o cliente selecionado
+        
+        Especificação de requisitos disfarçada
+            Uma especificação disfarçada em Product BackLog
+
+        Contratos de preço fixo
+            Se for possível, evite projetos com preço e escopos fixo
+    

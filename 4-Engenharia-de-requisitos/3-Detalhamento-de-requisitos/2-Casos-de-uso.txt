@@ -1,0 +1,55 @@
+    Conceitos de Casos de uso
+        O que são?
+            Técnica difundida para descrição da funcionalidade de um sistema.
+            Fornecem um modelo conceitual do sistema.
+            Forma de agrupar requisitos em unidades lógicas.
+            Apresentam a interação entre o sistema e o mundo exterior do ponto de vista dos usuários do sistema.
+        
+        Exemplo de cenário ainda sem estar no caso de uso:
+            1. João digita o texto "bicicleta" na caixa rotulada "busca".
+            2. O sistema mostra um link com texto "bicicleta Caloi - R$500.00" e um ícone "compra".
+            3. João clica no ícone "compra"
+            4. O sistema acrescenta a bicicleta caloi ao carrinho de compras do João.
+        
+        Um caso de uso corresponde à uma generalização.
+            Cenário no caso de uso:
+                1. O cliente digita o texto para pesquisa
+                2. O sistema apresenta os itens retornados com seu nome e respectivo valor
+                3. O cliente seleciona um ou mais itens para compla
+                4. O cliente solicita a compra dos itens.
+                5. O sistema acrescenta os itens selecionados ao carrinho de compras do usuário
+        
+        Importante:
+            Casos de uso não são requisitos funcionais
+            São apenas uma forma para sua representação
+            Casos de uso não descrevem diretamente requisitos não funcionais
+        
+        Elementos da modelagem de casos de uso:
+            Atores
+            Casos de uso
+            Associações
+        
+        Definição de caso de uso
+            Descrição do conjunto de sequências de ações, incluindo suas variantes, executadas pelo sistema e que produzem um resultado observável de valor para um ator.
+        
+        Características de caso de uso
+            Casos de uso descrevem a forma como o sistema é empregado pelos seus atores para atingir seus objetivos
+            Cada caso de uso é uma tarefa completa da perspectiva do ator
+            Evidencia o relacionamento entre o ator e o sistema
+            É completado em tempo relativamente pequeno
+            Se duas ou mais ações são resolvidas com espaço significativo de tempo, então devem ser divididas em dois casos de uso
+        
+        Como encontrar os casos de uso?
+            Verificar dentro do sistema o que cada ator faz.
+                Avaliação dos objetivos (objetivo máximo)
+                Cada objetivo geral que produz valor observável corresponde a um caso de uso
+                Quais funcionalidades o ator necessita do sistema?
+                Existem eventos externos que o sistema deve ter conhecimento?
+                Quais os atores informam o sistema por esses eventos?
+            
+        Associações
+            Associação é o nome dado ao relacionamento entre atores e casos de uso (lê-se da esq. p/ dir.)
+
+        Qual é o escopo de um caso de uso?
+            Sempre iniciados por um ator
+            Quando um caso é considerado completo, não existem mais entradas e saídas.

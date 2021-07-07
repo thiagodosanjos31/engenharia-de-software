@@ -1,0 +1,35 @@
+    Proxies de usuários
+        É fundamental que um projeto possua um ou mais usuários reais no time de clientes
+        Pode ser difícil reunir os usuários necessários ou desejáveis
+
+    Proxies 
+        Gerente de projetos
+            Precisa ser também usuário de software
+            Pode ter padrões de uso diferentes
+            Questões de ego podem estar envolvidas
+        
+        Gerente de dev
+            Pior escolhas possíveis
+            Obj diferente dos usuários
+        
+        Equipe de vendas
+            Preocupados normalmente com funcionalidades que vendem
+            Podem ser um canal de apresentação a usuários verdadeiros
+        
+        Especialista de domínio
+            Sua utilidade depende se são ou foram usuários do sistema
+            Muito úteis ao se construir um modelo de domínio ou identificar regras de negócio
+        
+        Equipe de marketing
+            Mais interessados na quantidade do que na qualidade
+        
+        Usuários anteriores
+            Podem ser uma boa opção se experiência é recente
+        
+        Equipe de treinamento
+            Tendência de se projetar um sistema fácil de treinar ou dar suporte
+
+        Analistas de negócio
+            Podem ser boa opção por conhecer do domínio e de tecnologia
+            Devem conversar com usuários reais
+            Um problema comum é que podem querer intuir o que o usuário deseja e não perguntar diretamente à ele

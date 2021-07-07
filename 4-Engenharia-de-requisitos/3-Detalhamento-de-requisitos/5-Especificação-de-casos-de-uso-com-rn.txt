@@ -1,0 +1,19 @@
+    Como documentar regras de negócios:
+        Pre condições
+            PIPIPIPOPOPO
+        
+        Fluxo principal
+            O caso de uso se inicia quando o usuário solicita a realização...
+            O usuário confirma os dados do exemplar... (RN-01)
+            O usuário confirma o empréstimo.
+            O sistema envia um e-mail... (RN-02)
+            O caso de uso é encerrado.
+        
+        Pós condições
+            PIPIPIPOPOPO
+        
+        (Final do caso de uso:)
+        Regras de negócio
+            ID          Descrição
+            RN-01       A data de devolução é calculada como: para livros didáticos obrigatórios, a data de devolução é a data atual + 5 dias. Para outros livros...
+            RN-02       O e-mail de confirmação da realização do empréstimo deve ter o seguinte formato: "TITULO: PIPIPIPOPOPO; CORPO DO EMAIL: PIPIPIPOPOPO"

@@ -1,0 +1,56 @@
+    Requisitos especiais
+        Como descrever os campos do cadastro de usuário?
+        Onde e como descrever requisitos não funcionais?
+        E se o passo que eu estiver descrevendo for muito complexo? E se ele aparecer diversas vezes?
+    
+    Forma de representação de requisitos que estende e complementa a modelagem de casos de uso
+    Não são regras da UML
+    
+    Requisitos não funcionais
+        Possuem escopo de aplicação
+        Global
+            Portabilidade
+            Manutenibilidade
+            Confiabilidade        
+        Caso de uso
+            Desempenho
+            Acesso simultâneo
+    
+    Regras de negócio
+        Casos de uso podem ter comportamentos complexos e longos
+        Descrevê-los no fluxo pode torná-lo difícil de ser lido
+            Complexidade desnecessária
+        
+        A descrição pode ser relativa ao comportamento do sistema
+            Não é de interesse dos clientes que desejam perceber a interação dos atores e do sistema
+        
+        O comportamento completo pode ainda não estar consolidado
+        
+        São procedimentos detalhados, relacionamentos e guias que dirigem o comportamento de negócios em determinada situação.
+        Limite tênue, nebuloso com os fluxos do caso de uso
+            O que é regra e o que é fluxo?
+        
+        Motivos para usar regras de negócio:
+            Extrair complexidade do fluxo principal
+            Fatorar o uso de Regras
+            Facilitar a manutenção
+        
+        Como fazer?
+            Fluxo
+                Passo 1 
+                Passo 2
+                O sistema assegura-se que o intervalo é válido (RN 2)
+                (...)
+            RN2
+                Um intervalo de datas é válido se a data de início maior ou igual ao intervalo de vigência da lei e tem data de término menor ou igual ao período...
+            
+    Integração com a interface
+        É parte importante do sistema ser desenvolvido
+            Determina comunicação com usuário
+            Inclui requisitos dificilmente descritos sem seu desenho e apresentação
+            As vezes é a forma através da qual o sistema é aprovado
+        
+        A especificação de interface de usuário deve documentar:
+            Um layout sugerido para a interface
+            A especificação dos campos da interface
+            A especificação dos comandos da interface

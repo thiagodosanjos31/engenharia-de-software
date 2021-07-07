@@ -19,7 +19,7 @@
                 Responder a mudanças mais que seguir um plano
             
             Principios:
-                Prioridade é satisfazer ao cliente através de entregasa contínuas e frequentes
+                Prioridade é satisfazer ao cliente através de entregas contínuas e frequentes
                 Receber bem as mudanças de requisitos, mesmo em uma fase avançado do projeto
                 Entregas com frequência, sempre na menor escala de tempo
                 Equipes de negócio e de dev trabalhar juntas diariamente

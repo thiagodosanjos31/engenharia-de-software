@@ -1,0 +1,102 @@
+    Elementos de casos de uso - Parte 1
+        Definem entendimento do relacionamento do sistema com os casos de uso e atores
+        Geram documentação em alto nível
+        Não são suficientes para análise, desenho e implementação
+
+        Exemplo - caso de uso Realizar pedido
+            Pré-condição:
+                usuário autenticado como cliente
+            
+            Fluxo de eventos:
+                1. O cliente digita o texto para pesquisa
+                2.
+
+            Pós-condição:
+                O pedido é salvo e enviado para o setor que despachará os itens comprados.
+
+        Pré e pós-condições
+            Indicam o que vem antes e depois dos casos de uso.
+            Casos de uso não são elementos isolados.
+            Nem sempre podem ser executados a qualquer momento e nem sempre podem retorenar qualquer tipo de informações.
+            Auxiliam na definição do escopo do caso de uso
+            Definem quando os fluxos começam e quando terminam
+            Ajudam a determinar dependências entre os casos de uso
+            Garantem pontos de verificação nos testes do sistema
+            Indicam estados que devem ser considerados no momento do início do caso de uso
+            
+        Pré-condições - Exemplos
+            Usuário autenticado no sistema com um dos seguintes papéis: adm ou gerente de painéis
+            A lista de instrumentos recebida como parâmetro nunca estará vazia
+        
+        Pós-condições - Exemplo:
+            O pedido é salvo no sistema.
+            Os dados do usuário são alterados de acordo com os valores informados.
+        
+    Elementos de casos de uso - Parte 2
+
+        Fluxo de eventos
+            Conjunto ordenado de atividades que descrevem o que acontece a partir do momento em que o caso de uso é iniciado.
+            
+            1. O caso de uso se inicia quando o operador recebe a solicitação de cancelamento de um pedido
+            2. O operador informa o identificador do pedido
+            3. O operador solicita a busca do pedido
+            4. O sistema apresenta o pedido
+            5. O operador solicita o cancelamento desse pedido
+            6. O sistema marca o pedido como cancelado
+
+            Voz ativa
+            Sujeito é o sistema ou o ator que se relaciona com ele (exceto a primeira ou ultima frase)
+            Sem detalhamento técnico
+        
+        Fluxo principal
+            É o fluxo escrito considerando que tudo ocorreu bem.
+            Existe um e apenas um fluxo principal para cada caso de uso
+            Fluxo primeiro (Caminho feliz)
+            Ao se escrever o fluxo principal, busca-se descrever o que deve ser feito para cumprir a missão do caso de uso
+            Não são necessários desvios ou alternativas.
+        
+        Fluxo(s) alternativo(s)
+            Normalmente uma grande quantiade de variações, alternativas e exceções ocorrem na execução de casos de uso
+            Representam funcionalidade significativa.
+            Comportamentos específicos que ocorrem se uma alternativa ou variação do fluxo principal ocorre.
+
+            Condição para inicio do fluxo alternativo
+                Indica como e a partir de onde o fluxo alternativo pode ser iniciado
+                Pode ser colocado no primeiro passo do fluxo ou em descrição à parte
+            
+            Passos:
+                Mesmo que o fluxo principal
+            
+            Retorno:
+                Indica para onde o fluxo alternativo retorna (ou se retorna).
+            
+            Exemplo Fluxo alternativo
+                Cond:
+                    Se no passo xx do fluxo principal ocorrer a <descrição da condição>
+                    
+                Retorno:
+                    A execução retorna ao passo x do fluxo principal
+            
+        Subfluxo(s)
+            Diversas vezes os fluxos (principal e alternativos) contêm passos em comum.
+            Pequenos trechos que não correspondem à funcionalidade que gera valor ao usuário.
+                Trechos de salvamento
+                Configuração
+                Inicialização
+            Subfluxo
+                Trecho de fluxo que pode ser reutilizado por diversos fluxos de caso de uso, não corresponde a um caso de uso à parte.
+            
+            Ex:
+                Fluxo principal (inserção)
+                    O usuário (...)
+                    O sistema valida os dados (subfluxo validação)
+                
+                Fluxo alternativo (alteração)
+                    O usuário (...)
+                    O sistema valida os dados (subfluxo validação)
+                
+                Subfluxo
+                    O sistema verifica que xxxx (...)
+                    O sistema verifica que yyyy (...)
+                
+            Invocar retratando a função do subfluxo

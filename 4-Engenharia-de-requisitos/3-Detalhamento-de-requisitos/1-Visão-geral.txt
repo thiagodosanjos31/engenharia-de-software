@@ -1,0 +1,58 @@
+    Visão geral:
+        Modelagem e decoumentação de requisitos
+            Análise Orientada a Objetos
+                Modelar os conceitos do domínio do produto, seus relacionamentos e comportamentos
+
+                Casos de uso
+                Diagrama de atividades
+            
+            Atores
+                Quem ou o quê vai estar usando o sistema
+                Quando o evento que causa interação do sistema e o ambiente ocorre
+                Entidades iniciam eventos. Entidades interagem com o sistema como resultado dos eventos.
+                "Externo": não fazem parte do sistema
+                "interage": um ator troca informações com o sistema
+                Casos de uso representam uma sequênciam de interações entre o sistema e o ator. (Troca de informações entre eles)
+                Atores não são pessoas nem entidades específicas.
+                
+                Categorias de Atores
+                    Pessoas
+                        Empregado, Correntista, Gerente, Investidor
+                    Organizações
+                        Bancos, Agência de impostos, Administradora de cartões
+                    Outros sistemas
+                        Sistema de Cobrança, Sistema de Estoque de Produtos
+                    Equipamentos
+                        Leitora de código de barras, sensor
+                
+                Por que definir atores?
+                    Permite concentrar na interação do usuário ao invés de como ele será implementado
+                    Ajudam a definir o contexto do sistema
+                    Permitem determinar o quão completo está o sistema
+                     
+                     > Que outras interações este papel necessita?
+
+                     Os papéis que os atores executam provêm perspectivas de:
+                        Por que o caso de uso é necessário
+                        Da saída esperada pelo caso de uso
+                    
+                Identificando atores - Perguntas úteis
+                    que órgãos, empresas ou pessoas irão utilizar o sistema?
+                    que outros sistemas se comunicarão com o sistema?
+                    o sistema deverá interagir com sistemas legados?
+                    Algum evento acontece automaticamente no sistema?
+                    Quem está interessado em um certo requisito funcional do sistema?
+                    se um evento ocorre no sistema, existe alguma entidade que precisa ser notificada desse evento?
+                
+                Hierarquia de atores
+                    Atendente > usuário < Cliente
+                            Sendo assim, o "usuário" tem atributos comuns ao atendente e cliente
+                
+                Contexto:
+                    O contexto de um sistema é a parte do ambiente que é relevante para a definição assim como o entendimento dos requisitos do sistema a ser desenvolvido.
+                
+                    Diagrama de contexto:
+                        Representação resumida dos limites do sistema, entidades que interagem com o sistema e a natureza da interação.
+                        Representação introdutória do que está dentro ou fora do sistema.
+                        Menos formal.
+                        (Descrição de imagem: um caso de uso informal onde tem o sistema e os papéis em volta desse sistema)

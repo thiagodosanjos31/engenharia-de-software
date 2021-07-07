@@ -1,0 +1,27 @@
+    Armazenamento de histórias de usuário
+        Papel ou software?
+            Cartões encorajam discussões e interação
+            Cartões podem ser empilhados, organizados ou levados a uma reunião
+
+            Software: Trello, PivotralTracker
+
+            Planilhas e softwares de gerenciamento de defeitos
+
+            Podem ser necessários em caso de auditorias
+
+            Cartões podem ser empilhados, organizados ou levados a uma reunião
+        
+        Guardar histórias de usuário
+            Existem dúvidas quanto guardar ou não os cartões
+            Se software é usado, então não há dúvida
+            Recomendação de se guardar os cartões por algum tempo
+
+        Quando guardar:
+            Aquisição da organização
+            Necessidade de se explicar o processo de desenvolvimento
+            Manutenção ou evolução do produto
+            Necessidade de aprovação dos requisitos
+        
+        Histórias de usuário e defeitos:
+            Qual a relação entre histórias e defeitos?
+            Cada registro de defeito pode ser tratado como uma história

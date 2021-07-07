@@ -1,0 +1,72 @@
+    História de usuário
+        Unidade de funcionalidade no XP
+        Sentença curta de intenção que descreve algo que o sistema deve fazer para o usuário
+        Histórias são escritas pelo usuário
+    
+    No Scrum, PO geralmente escreve (aceita e prioriza) as Histórias
+    Devem ser escritas de maneira a serem compreendidas por usuários e descreve
+    Focam no valor definido pelo usuário em vez de uma composição hierarquica funcionalidade
+    Não são especificações detalhadas de requisitos, mas expressões de intenção negociáveis
+    São curtas, fáceis de ler e compreensíveis a desenvolvedores, partes interessadas e usuários
+    Não são detalhadas no início do projeto
+
+    Tem formato específico de escrita, geralmente:
+        Como um <papel>, eu posso/devo <ação> para que <valor para o negócio>.
+    
+    Foco:
+        Papel do usuário
+        Valor para o negócio
+    
+    Permite uma segmentação da funcionalidade
+    
+    Processo completo
+        Defina uma história de valor para o usuário
+        Implemente e teste em uma iteração curta
+        Demonstre ou entregue para o usuário
+    
+    Representação das Histórias
+        Cartão
+        Duas ou três frases usadas para descrever a intenção da estória
+        Detalhe ainda será determinado
+        Promessa de conversa
+        
+        Conversa
+        Discussão entre equipe, cliente e PO para determinar comportamento detalhado
+
+        Confirmação
+        Representa o teste de aceitação
+        Representa condições de satisfação
+    
+    Exemplo de história:
+        Épico (Mais abrangente)
+            Histórias menores que compõe o Épico
+    
+    Boas Histórias de usuário
+        Começar com objetivos:
+            Em projetos grandes com muitos usuários
+            Difícil saber por onde Começar
+            Sugestão é considerar cada papel e começar pelos seus objetivos de maior prioridade
+        
+        Fatiar o bolo:
+            Há várias maneiras de se quebrar uma história em pedaçoes menores
+            Existe tendência de se quebrar considerando aspectos técnicos
+            Cada história deve conter algum nível completo de funcionalidade
+        
+        Ciclos trimestrais
+            Não há regra que determine quanto o projeto deve durar
+            Para projetos mais longos que quatro meses, uma boa sugestão é usar ciclos trimestrais
+
+        Restrições em cartões
+            Devem ser obedecidades e não implementadas diretamente
+            Não são alocadas a iterações e não são diretamente estimadas
+
+        Algumas coisas não são Histórias
+            Formato de histórias de usuário não é apropriado para tudo
+            Se for necessário documentar requisitos em outro formato, então use formato adequado
+        
+        Escrever na voz ativa
+        
+        Não numere os cartões
+            Pode ser uma tentação para manter controle dos cartões ou ter algum mecanismo de rastreabilidade
+        
+        
